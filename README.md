@@ -102,6 +102,8 @@ n.
 ---
 
 ## File Structure
+
+```text
 data/
 ├── scores/
 │   └── <piece_id>/
@@ -115,7 +117,7 @@ data/
 docs/
 ├── MuseScore-Plugins/        # Plugins used for digitization
 └── Annotation-Instructions/ # Annotation and digitization guidelines
-(Exact structure may vary slightly by piece.)
+
 
 ---
 
