@@ -48,7 +48,7 @@ Raw labels reflect the original human annotations. They describe the relationshi
   Reference pattern for a given piece.
 
 #### Pitch Labels
-- **(No label)**
+- **(No label)**  
   Same intervallic relations from the reference.
 - **PA** (Pitch Alteration)  
   Certain pitches differ in their intervallic relations from the reference pattern, while remaining recognizably related.
@@ -60,7 +60,7 @@ Raw labels reflect the original human annotations. They describe the relationshi
   No clear pitch relationship to the reference pattern.
 
 #### Rhythm Labels
-- **(No label)**
+- **(No label)**  
   Identical rhythm as the reference.
 - **RT** (Rhythmic Transposition)  
   Proportional change in durations, such as augmentation or diminution.
