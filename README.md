@@ -23,11 +23,10 @@ This release is intended solely to support anonymous peer review. The repository
 For each annotated pattern, we release the following information:
 
 1. **MIDI excerpts** corresponding to each annotated pattern
-2. **Annotation locations**, including:
+2. **Annotation locations** (encoded using `music21` semantics), including:
    - Staff index (staff)
    - Start time (start)
    - End time  (end)
-   (encoded using `music21` semantics)
 3. **Raw labels (`raw_labels`)**  
    - Labels as recorded in the original annotation process
 4. **Processed fine-grained labels (`labels`)**  
