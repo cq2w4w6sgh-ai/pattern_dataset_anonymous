@@ -24,9 +24,9 @@ For each annotated pattern, we release the following information:
 
 1. **MIDI excerpts** corresponding to each annotated pattern
 2. **Annotation locations** (encoded using `music21` semantics), including:
-   - Staff index (staff)
-   - Start time (start)
-   - End time  (end)
+   - Staff index (`staff`)
+   - Start time (`start`)
+   - End time  (`end`)
 3. **Raw labels (`raw_labels`)**  
    - Labels as recorded in the original annotation process
 4. **Processed fine-grained labels (`labels`)**  
