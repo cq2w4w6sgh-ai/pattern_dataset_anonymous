@@ -117,7 +117,7 @@ data/
 docs/
 ├── MuseScore-Plugins/        # Plugins used for digitization
 └── Annotation-Instructions/ # Annotation and digitization guidelines
-
+```
 
 ---
 
