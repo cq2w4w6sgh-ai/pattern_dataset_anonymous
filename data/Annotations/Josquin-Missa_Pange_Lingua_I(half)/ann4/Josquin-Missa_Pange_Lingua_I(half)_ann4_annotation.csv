@@ -1,0 +1,5 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,198.0,206.0,set(),,False,"{'SP-PT', 'SR'}",Josquin-Missa_Pange_Lingua_I(half)_ann4_midi_0_198.0_206.0.mid
+1,170.0,178.0,{'REF'},,False,{'REF'},Josquin-Missa_Pange_Lingua_I(half)_ann4_midi_1_170.0_178.0_REF.mid
+2,206.0,214.0,set(),,False,"{'PA-TT', 'SR'}",Josquin-Missa_Pange_Lingua_I(half)_ann4_midi_2_206.0_214.0.mid
+3,178.0,186.0,set(),,False,"{'PA-TT', 'SR'}",Josquin-Missa_Pange_Lingua_I(half)_ann4_midi_3_178.0_186.0.mid

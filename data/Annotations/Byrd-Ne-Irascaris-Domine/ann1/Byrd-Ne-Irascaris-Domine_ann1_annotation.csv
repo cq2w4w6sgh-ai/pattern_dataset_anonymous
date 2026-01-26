@@ -1,0 +1,8 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,89.0,95.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann1_midi_0_89.0_95.0.mid
+0,113.0,119.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann1_midi_0_113.0_119.0.mid
+1,109.0,114.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Byrd-Ne-Irascaris-Domine_ann1_midi_1_109.0_114.0.mid
+2,99.0,105.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann1_midi_2_99.0_105.0.mid
+2,115.0,121.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann1_midi_2_115.0_121.0.mid
+3,87.0,93.0,{'REF'},,False,{'REF'},Byrd-Ne-Irascaris-Domine_ann1_midi_3_87.0_93.0_REF.mid
+3,101.0,108.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann1_midi_3_101.0_108.0.mid

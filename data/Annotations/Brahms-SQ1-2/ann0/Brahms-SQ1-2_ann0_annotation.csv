@@ -1,0 +1,84 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,3.0,5.0,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_0_3.0_5.0.mid
+0,6.0,8.0,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_0_6.0_8.0.mid
+0,17.0,20.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Brahms-SQ1-2_ann0_midi_0_17.0_20.0.mid
+0,21.0,23.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_0_21.0_23.0.mid
+0,24.0,26.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_0_24.0_26.0.mid
+0,54.0,56.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_0_54.0_56.0.mid
+0,57.0,59.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_0_57.0_59.0.mid
+0,127.0,131.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_0_127.0_131.0.mid
+0,131.0,135.0,{'RA'},,False,"{'PA-TT', 'RA'}",Brahms-SQ1-2_ann0_midi_0_131.0_135.0.mid
+0,136.0,138.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_0_136.0_138.0.mid
+0,198.0,200.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_0_198.0_200.0.mid
+0,201.0,203.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_0_201.0_203.0.mid
+0,255.0,257.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_0_255.0_257.0.mid
+0,261.0,263.0,set(),,False,"{'PA-TT', 'SR'}",Brahms-SQ1-2_ann0_midi_0_261.0_263.0.mid
+0,270.0,272.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_0_270.0_272.0.mid
+1,0.0,3.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_0.0_3.0.mid
+1,18.0,20.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_18.0_20.0.mid
+1,21.0,23.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_1_21.0_23.0.mid
+1,24.0,26.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_24.0_26.0.mid
+1,36.0,38.0,set(),,False,"{'PA-TT', 'SR'}",Brahms-SQ1-2_ann0_midi_1_36.0_38.0.mid
+1,39.0,41.0,set(),,False,"{'PA-TT', 'SR'}",Brahms-SQ1-2_ann0_midi_1_39.0_41.0.mid
+1,42.0,44.0,set(),,False,"{'PA-TT', 'SR'}",Brahms-SQ1-2_ann0_midi_1_42.0_44.0.mid
+1,45.0,47.0,set(),,False,"{'PA-TT', 'SR'}",Brahms-SQ1-2_ann0_midi_1_45.0_47.0.mid
+1,54.0,56.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_1_54.0_56.0.mid
+1,57.0,59.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_57.0_59.0.mid
+1,66.0,68.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_1_66.0_68.0.mid
+1,131.0,133.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_131.0_133.0.mid
+1,135.0,137.0,"{'RA', 'PA'}",fixed annotation,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_135.0_137.0.mid
+1,136.0,138.0,set(),,False,"{'PA-TT', 'SR'}",Brahms-SQ1-2_ann0_midi_1_136.0_138.0.mid
+1,144.0,147.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_144.0_147.0.mid
+1,162.0,165.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_162.0_165.0.mid
+1,198.0,200.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_1_198.0_200.0.mid
+1,201.0,203.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_201.0_203.0.mid
+1,210.0,212.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_210.0_212.0.mid
+1,255.0,258.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_1_255.0_258.0.mid
+1,261.0,263.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_1_261.0_263.0.mid
+1,270.0,272.0,{'I'},fixed,False,"{'PA-TT', 'SR', 'I'}",Brahms-SQ1-2_ann0_midi_1_270.0_272.0.mid
+2,0.0,2.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_2_0.0_2.0.mid
+2,3.0,5.0,{'REF'},,False,{'REF'},Brahms-SQ1-2_ann0_midi_2_3.0_5.0_REF.mid
+2,6.0,8.5,{'RA'},,False,"{'PA-TT', 'RA'}",Brahms-SQ1-2_ann0_midi_2_6.0_8.5.mid
+2,18.0,20.0,set(),,False,"{'PA-TT', 'SR'}",Brahms-SQ1-2_ann0_midi_2_18.0_20.0.mid
+2,21.0,23.0,set(),,False,"{'SP-PT', 'SR'}",Brahms-SQ1-2_ann0_midi_2_21.0_23.0.mid
+2,24.0,26.0,set(),,False,"{'SP-PT', 'SR'}",Brahms-SQ1-2_ann0_midi_2_24.0_26.0.mid
+2,36.0,38.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_2_36.0_38.0.mid
+2,39.0,41.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_2_39.0_41.0.mid
+2,42.0,44.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_2_42.0_44.0.mid
+2,45.0,47.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_45.0_47.0.mid
+2,54.0,56.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_2_54.0_56.0.mid
+2,57.0,59.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_2_57.0_59.0.mid
+2,63.0,65.0,"{'RA', 'I'}",,False,"{'SP-PT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_63.0_65.0.mid
+2,66.0,68.0,"{'RA', 'I'}",,False,"{'SP-PT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_66.0_68.0.mid
+2,127.0,129.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_127.0_129.0.mid
+2,131.0,133.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_131.0_133.0.mid
+2,135.0,136.0,"{'F', 'PA'}",,False,"{'F', 'PA'}",Brahms-SQ1-2_ann0_midi_2_135.0_136.0.mid
+2,137.0,138.0,"{'F', 'PA'}",,False,"{'F', 'PA'}",Brahms-SQ1-2_ann0_midi_2_137.0_138.0.mid
+2,144.0,146.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_2_144.0_146.0.mid
+2,147.0,149.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_147.0_149.0.mid
+2,162.0,164.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_2_162.0_164.0.mid
+2,198.0,200.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_198.0_200.0.mid
+2,201.0,203.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_201.0_203.0.mid
+2,207.0,209.0,"{'RA', 'I'}",,False,"{'SP-PT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_207.0_209.0.mid
+2,210.0,212.0,"{'RA', 'I'}",,False,"{'SP-PT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_210.0_212.0.mid
+2,255.0,257.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Brahms-SQ1-2_ann0_midi_2_255.0_257.0.mid
+2,258.0,260.0,set(),,False,"{'PA-TT', 'SR'}",Brahms-SQ1-2_ann0_midi_2_258.0_260.0.mid
+2,261.0,263.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Brahms-SQ1-2_ann0_midi_2_261.0_263.0.mid
+2,264.0,266.0,set(),,False,"{'PA-TT', 'SR'}",Brahms-SQ1-2_ann0_midi_2_264.0_266.0.mid
+2,267.0,269.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_2_267.0_269.0.mid
+3,0.0,2.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_3_0.0_2.0.mid
+3,3.0,5.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_3_3.0_5.0.mid
+3,6.0,8.5,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Brahms-SQ1-2_ann0_midi_3_6.0_8.5.mid
+3,21.0,23.0,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_3_21.0_23.0.mid
+3,24.0,26.0,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_3_24.0_26.0.mid
+3,54.0,56.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Brahms-SQ1-2_ann0_midi_3_54.0_56.0.mid
+3,57.0,59.0,"{'RA', 'I'}",,False,"{'SP-PT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_3_57.0_59.0.mid
+3,63.0,65.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Brahms-SQ1-2_ann0_midi_3_63.0_65.0.mid
+3,66.0,68.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_3_66.0_68.0.mid
+3,144.0,146.0,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann0_midi_3_144.0_146.0.mid
+3,147.0,149.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_3_147.0_149.0.mid
+3,165.0,167.0,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_3_165.0_167.0.mid
+3,168.0,170.0,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_3_168.0_170.0.mid
+3,207.0,209.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_3_207.0_209.0.mid
+3,210.0,212.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Brahms-SQ1-2_ann0_midi_3_210.0_212.0.mid
+3,267.0,269.0,set(),,False,"{'SP-PT', 'SR'}",Brahms-SQ1-2_ann0_midi_3_267.0_269.0.mid

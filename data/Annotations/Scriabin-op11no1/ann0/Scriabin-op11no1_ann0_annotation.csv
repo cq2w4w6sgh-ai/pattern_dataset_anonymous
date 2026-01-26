@@ -1,0 +1,67 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.0,2.0,{'REF'},,False,{'REF'},Scriabin-op11no1_ann0_midi_0_0.0_2.0_REF.mid
+0,5.0,7.0,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann0_midi_0_5.0_7.0.mid
+0,7.5,9.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_7.5_9.5.mid
+0,10.0,12.0,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann0_midi_0_10.0_12.0.mid
+0,15.0,17.0,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann0_midi_0_15.0_17.0.mid
+0,17.5,19.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_17.5_19.5.mid
+0,20.0,22.0,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_20.0_22.0.mid
+0,25.0,27.0,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_25.0_27.0.mid
+0,30.0,32.0,"{'?', 'PA'}",,True,"{'?', 'PA'}",Scriabin-op11no1_ann0_midi_0_30.0_32.0.mid
+0,32.5,34.5,"{'?', 'PA'}",,True,"{'?', 'PA'}",Scriabin-op11no1_ann0_midi_0_32.5_34.5.mid
+0,35.0,37.0,"{'?', 'PA'}",,True,"{'?', 'PA'}",Scriabin-op11no1_ann0_midi_0_35.0_37.0.mid
+0,37.5,39.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_37.5_39.5.mid
+0,40.0,42.0,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_40.0_42.0.mid
+0,45.0,47.0,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_45.0_47.0.mid
+0,47.5,49.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_47.5_49.5.mid
+0,50.0,52.0,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_50.0_52.0.mid
+0,55.0,57.0,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_55.0_57.0.mid
+0,57.5,59.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_57.5_59.5.mid
+0,60.0,62.0,"{'?', 'PA'}",,True,"{'?', 'PA'}",Scriabin-op11no1_ann0_midi_0_60.0_62.0.mid
+0,65.0,67.0,"{'?', 'PA'}",,True,"{'?', 'PA'}",Scriabin-op11no1_ann0_midi_0_65.0_67.0.mid
+0,70.0,72.0,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_70.0_72.0.mid
+0,72.5,74.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_72.5_74.5.mid
+0,75.0,77.0,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_75.0_77.0.mid
+0,77.5,79.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_77.5_79.5.mid
+0,80.0,82.0,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_80.0_82.0.mid
+0,82.5,84.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_82.5_84.5.mid
+0,85.0,87.0,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_85.0_87.0.mid
+0,87.5,89.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_87.5_89.5.mid
+0,90.0,92.0,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann0_midi_0_90.0_92.0.mid
+0,95.0,97.0,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann0_midi_0_95.0_97.0.mid
+0,97.5,99.5,set(),,False,"{'PA-TT', 'SR'}",Scriabin-op11no1_ann0_midi_0_97.5_99.5.mid
+0,100.0,102.0,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann0_midi_0_100.0_102.0.mid
+0,105.0,107.0,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann0_midi_0_105.0_107.0.mid
+0,107.5,109.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann0_midi_0_107.5_109.5.mid
+0,110.0,112.0,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann0_midi_0_110.0_112.0.mid
+0,112.5,114.5,set(),,False,"{'PA-TT', 'SR'}",Scriabin-op11no1_ann0_midi_0_112.5_114.5.mid
+0,115.0,117.0,set(),,False,"{'PA-TT', 'SR'}",Scriabin-op11no1_ann0_midi_0_115.0_117.0.mid
+0,117.5,119.5,set(),,False,"{'PA-TT', 'SR'}",Scriabin-op11no1_ann0_midi_0_117.5_119.5.mid
+1,0.0,2.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_0.0_2.0.mid
+1,5.0,7.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_5.0_7.0.mid
+1,7.5,9.5,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_7.5_9.5.mid
+1,10.0,12.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_10.0_12.0.mid
+1,15.0,17.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_15.0_17.0.mid
+1,17.5,19.5,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_17.5_19.5.mid
+1,20.0,22.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_20.0_22.0.mid
+1,25.0,27.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_25.0_27.0.mid
+1,30.0,32.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_30.0_32.0.mid
+1,35.0,37.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_35.0_37.0.mid
+1,40.0,42.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_40.0_42.0.mid
+1,45.0,47.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_45.0_47.0.mid
+1,47.5,49.5,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_47.5_49.5.mid
+1,50.0,52.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_50.0_52.0.mid
+1,55.0,57.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_55.0_57.0.mid
+1,57.5,59.5,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_57.5_59.5.mid
+1,60.0,62.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_60.0_62.0.mid
+1,62.5,64.5,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_62.5_64.5.mid
+1,65.0,67.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_65.0_67.0.mid
+1,67.5,69.5,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_67.5_69.5.mid
+1,70.0,72.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_70.0_72.0.mid
+1,72.5,74.5,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_72.5_74.5.mid
+1,75.0,77.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_75.0_77.0.mid
+1,77.5,79.5,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_77.5_79.5.mid
+1,80.0,82.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_80.0_82.0.mid
+1,82.5,84.5,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_82.5_84.5.mid
+1,85.0,87.0,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_85.0_87.0.mid
+1,87.5,89.5,{'NP'},,False,"{'SR', 'NP'}",Scriabin-op11no1_ann0_midi_1_87.5_89.5.mid

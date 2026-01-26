@@ -1,0 +1,9 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.5,7.0,{'REF'},,False,{'REF'},Corelli-op3-3-3_ann2_midi_0_0.5_7.0_REF.mid
+0,21.0,23.0,"{'F', 'PA'}",,False,"{'F', 'PA'}",Corelli-op3-3-3_ann2_midi_0_21.0_23.0.mid
+0,61.5,63.0,"{'RA', 'F', 'PA'}",,False,"{'RA', 'F', 'PA'}",Corelli-op3-3-3_ann2_midi_0_61.5_63.0.mid
+0,64.5,71.0,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann2_midi_0_64.5_71.0.mid
+0,78.0,79.0,"{'F', 'PA'}",,False,"{'F', 'PA'}",Corelli-op3-3-3_ann2_midi_0_78.0_79.0.mid
+0,85.5,87.0,"{'RA', 'F', 'PA'}",,False,"{'RA', 'F', 'PA'}",Corelli-op3-3-3_ann2_midi_0_85.5_87.0.mid
+1,8.5,15.0,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann2_midi_1_8.5_15.0.mid
+1,48.5,55.0,set(),,False,"{'PA-TT', 'SR'}",Corelli-op3-3-3_ann2_midi_1_48.5_55.0.mid

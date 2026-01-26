@@ -1,0 +1,27 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,501.0,508.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann7_midi_0_501.0_508.0.mid
+0,516.0,522.0,{'RA'},,False,"{'SP-PT', 'RA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_0_516.0_522.0.mid
+0,527.0,532.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann7_midi_0_527.0_532.0.mid
+0,553.0,558.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_0_553.0_558.0.mid
+0,565.0,570.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann7_midi_0_565.0_570.0.mid
+0,583.0,588.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann7_midi_0_583.0_588.0.mid
+1,493.0,498.0,{'REF'},,False,{'REF'},Byrd-Ne-Irascaris-Domine_ann7_midi_1_493.0_498.0_REF.mid
+1,503.0,508.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann7_midi_1_503.0_508.0.mid
+1,541.0,546.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann7_midi_1_541.0_546.0.mid
+1,557.0,562.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_1_557.0_562.0.mid
+1,571.0,576.0,"{'RA', 'PA'}",fixed annotation,False,"{'PA', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann7_midi_1_571.0_576.0.mid
+2,499.0,504.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_2_499.0_504.0.mid
+2,507.0,512.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann7_midi_2_507.0_512.0.mid
+2,519.0,524.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann7_midi_2_519.0_524.0.mid
+2,539.0,544.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann7_midi_2_539.0_544.0.mid
+2,564.0,569.5,"{'RA', 'PA'}",fixed annotation,False,"{'RA', 'PA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_2_564.0_569.5.mid
+3,497.0,502.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann7_midi_3_497.0_502.0.mid
+3,512.0,517.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann7_midi_3_512.0_517.0.mid
+3,569.0,574.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_3_569.0_574.0.mid
+4,509.0,514.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann7_midi_4_509.0_514.0.mid
+4,523.0,528.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann7_midi_4_523.0_528.0.mid
+4,533.0,538.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_4_533.0_538.0.mid
+4,546.0,552.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_4_546.0_552.0.mid
+4,560.0,566.0,"{'RA', 'PA'}",fixed annotation,False,"{'RA', 'PA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_4_560.0_566.0.mid
+4,577.0,582.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_4_577.0_582.0.mid
+4,587.0,592.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ne-Irascaris-Domine_ann7_midi_4_587.0_592.0.mid

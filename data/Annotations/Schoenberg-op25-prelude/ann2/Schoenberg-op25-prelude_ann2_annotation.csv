@@ -1,0 +1,19 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,5.5,7.5,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schoenberg-op25-prelude_ann2_midi_0_5.5_7.5.mid
+0,9.0,11.0,"{'RA', 'I'}","or PR, same transform",False,"{'SP-PT', 'RA', 'I'}",Schoenberg-op25-prelude_ann2_midi_0_9.0_11.0.mid
+0,16.75,18.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Schoenberg-op25-prelude_ann2_midi_0_16.75_18.0.mid
+0,21.75,24.5,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schoenberg-op25-prelude_ann2_midi_0_21.75_24.5.mid
+0,31.75,32.25,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schoenberg-op25-prelude_ann2_midi_0_31.75_32.25.mid
+0,36.5,37.0,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schoenberg-op25-prelude_ann2_midi_0_36.5_37.0.mid
+0,51.75,52.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Schoenberg-op25-prelude_ann2_midi_0_51.75_52.5.mid
+0,66.0,67.75,"{'NR', 'I'}",,False,"{'SP-PT', 'NR', 'I'}",Schoenberg-op25-prelude_ann2_midi_0_66.0_67.75.mid
+0,67.75,68.75,{'NR'},,False,"{'SP-PT', 'NR'}",Schoenberg-op25-prelude_ann2_midi_0_67.75_68.75.mid
+1,5.0,6.5,{'REF'},,False,{'REF'},Schoenberg-op25-prelude_ann2_midi_1_5.0_6.5_REF.mid
+1,12.25,13.75,"{'RA', 'I', 'PA'}",,False,"{'RA', 'I', 'PA'}",Schoenberg-op25-prelude_ann2_midi_1_12.25_13.75.mid
+1,22.25,24.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Schoenberg-op25-prelude_ann2_midi_1_22.25_24.0.mid
+1,24.25,25.75,"{'NR', 'I', 'PA'}",,False,"{'NR', 'I', 'PA'}",Schoenberg-op25-prelude_ann2_midi_1_24.25_25.75.mid
+1,29.25,30.5,"{'NR', 'I'}",,False,"{'SP-PT', 'NR', 'I'}",Schoenberg-op25-prelude_ann2_midi_1_29.25_30.5.mid
+1,35.25,36.25,"{'RA', 'I', 'PA'}",,False,"{'RA', 'I', 'PA'}",Schoenberg-op25-prelude_ann2_midi_1_35.25_36.25.mid
+1,52.0,53.25,{'RA'},,False,"{'SP-PT', 'RA'}",Schoenberg-op25-prelude_ann2_midi_1_52.0_53.25.mid
+1,60.0,61.75,{'NR'},,False,"{'SP-PT', 'NR'}",Schoenberg-op25-prelude_ann2_midi_1_60.0_61.75.mid
+1,61.75,62.75,"{'NR', 'I'}",,False,"{'SP-PT', 'NR', 'I'}",Schoenberg-op25-prelude_ann2_midi_1_61.75_62.75.mid

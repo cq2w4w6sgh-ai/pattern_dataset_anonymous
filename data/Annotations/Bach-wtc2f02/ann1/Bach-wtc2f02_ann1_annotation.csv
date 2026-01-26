@@ -1,0 +1,16 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,13.0,16.0,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f02_ann1_midi_0_13.0_16.0.mid
+0,19.0,20.0,"{'NR', 'I'}",,False,"{'PA-TT', 'I', 'NR'}",Bach-wtc2f02_ann1_midi_0_19.0_20.0.mid
+0,21.0,22.0,{'NR'},,False,"{'PA-TT', 'NR'}",Bach-wtc2f02_ann1_midi_0_21.0_22.0.mid
+0,23.0,24.0,{'NR'},,False,"{'PA-TT', 'NR'}",Bach-wtc2f02_ann1_midi_0_23.0_24.0.mid
+0,76.0,78.0,{'NR'},,False,"{'PA-TT', 'NR'}",Bach-wtc2f02_ann1_midi_0_76.0_78.0.mid
+1,5.0,8.0,{'REF'},,False,{'REF'},Bach-wtc2f02_ann1_midi_1_5.0_8.0_REF.mid
+1,8.5,11.75,{'NR'},,False,"{'SP-PT', 'NR'}",Bach-wtc2f02_ann1_midi_1_8.5_11.75.mid
+1,25.0,26.0,{'NR'},,False,"{'PA-TT', 'NR'}",Bach-wtc2f02_ann1_midi_1_25.0_26.0.mid
+1,50.25,52.0,{'NR'},,False,"{'SP-PT', 'NR'}",Bach-wtc2f02_ann1_midi_1_50.25_52.0.mid
+1,66.25,67.5,"{'NR', 'I'}",,False,"{'PA-TT', 'I', 'NR'}",Bach-wtc2f02_ann1_midi_1_66.25_67.5.mid
+1,72.0,74.0,{'NR'},,False,"{'SP-PT', 'NR'}",Bach-wtc2f02_ann1_midi_1_72.0_74.0.mid
+2,17.0,18.0,"{'NR', 'I'}",,False,"{'PA-TT', 'I', 'NR'}",Bach-wtc2f02_ann1_midi_2_17.0_18.0.mid
+2,19.0,20.0,"{'NR', 'I'}",,False,"{'PA-TT', 'I', 'NR'}",Bach-wtc2f02_ann1_midi_2_19.0_20.0.mid
+2,60.0,61.0,"{'NR', 'I'}",,False,"{'PA-TT', 'I', 'NR'}",Bach-wtc2f02_ann1_midi_2_60.0_61.0.mid
+2,61.25,62.25,{'NR'},,False,"{'PA-TT', 'NR'}",Bach-wtc2f02_ann1_midi_2_61.25_62.25.mid

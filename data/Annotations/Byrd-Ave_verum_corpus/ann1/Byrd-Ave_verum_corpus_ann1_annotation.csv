@@ -1,0 +1,28 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,6.0,11.0,{'REF'},,False,{'REF'},Byrd-Ave_verum_corpus_ann1_midi_0_6.0_11.0_REF.mid
+0,12.0,13.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_0_12.0_13.0.mid
+0,65.0,70.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_0_65.0_70.0.mid
+0,75.0,79.5,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Byrd-Ave_verum_corpus_ann1_midi_0_75.0_79.5.mid
+0,100.0,108.0,{'RA'},,False,"{'SP-PT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_0_100.0_108.0.mid
+0,129.0,132.0,{'NR'},,False,"{'PA-TT', 'NR'}",Byrd-Ave_verum_corpus_ann1_midi_0_129.0_132.0.mid
+0,148.0,152.0,{'RA'},,False,"{'SP-PT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_0_148.0_152.0.mid
+0,160.0,164.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Byrd-Ave_verum_corpus_ann1_midi_0_160.0_164.0.mid
+0,163.0,168.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_0_163.0_168.0.mid
+0,189.0,192.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_0_189.0_192.0.mid
+0,208.0,212.0,{'RA'},,False,"{'SP-PT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_0_208.0_212.0.mid
+0,223.0,228.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_0_223.0_228.0.mid
+1,4.0,12.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Byrd-Ave_verum_corpus_ann1_midi_1_4.0_12.0.mid
+1,73.0,78.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_1_73.0_78.0.mid
+1,163.0,166.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_1_163.0_166.0.mid
+1,194.0,198.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_1_194.0_198.0.mid
+1,203.0,206.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Byrd-Ave_verum_corpus_ann1_midi_1_203.0_206.0.mid
+1,223.0,226.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_1_223.0_226.0.mid
+1,234.0,238.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_1_234.0_238.0.mid
+2,8.0,14.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_2_8.0_14.0.mid
+2,106.0,108.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_2_106.0_108.0.mid
+2,153.0,158.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_2_153.0_158.0.mid
+2,164.0,166.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_2_164.0_166.0.mid
+2,203.0,206.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Byrd-Ave_verum_corpus_ann1_midi_2_203.0_206.0.mid
+2,213.0,218.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_2_213.0_218.0.mid
+2,235.0,238.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_2_235.0_238.0.mid
+3,24.0,26.0,"{'PR', 'RA'}",,False,"{'PR', 'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann1_midi_3_24.0_26.0.mid

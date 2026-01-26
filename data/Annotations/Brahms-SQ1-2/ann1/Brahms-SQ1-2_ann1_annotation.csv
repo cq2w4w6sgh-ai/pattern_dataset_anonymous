@@ -1,0 +1,13 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,9.0,11.5,{'REF'},,False,{'REF'},Brahms-SQ1-2_ann1_midi_0_9.0_11.5_REF.mid
+0,12.0,14.5,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann1_midi_0_12.0_14.5.mid
+1,51.0,53.5,{'NP'},,False,"{'SR', 'NP'}",Brahms-SQ1-2_ann1_midi_1_51.0_53.5.mid
+2,51.0,53.5,{'NP'},,False,"{'SR', 'NP'}",Brahms-SQ1-2_ann1_midi_2_51.0_53.5.mid
+2,171.0,173.5,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Brahms-SQ1-2_ann1_midi_2_171.0_173.5.mid
+2,174.0,176.5,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann1_midi_2_174.0_176.5.mid
+3,9.0,11.5,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Brahms-SQ1-2_ann1_midi_3_9.0_11.5.mid
+3,12.0,14.5,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann1_midi_3_12.0_14.5.mid
+3,27.0,29.5,set(),,False,"{'SP-PT', 'SR'}",Brahms-SQ1-2_ann1_midi_3_27.0_29.5.mid
+3,30.0,32.5,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann1_midi_3_30.0_32.5.mid
+3,171.0,173.5,set(),,False,"{'SP-PT', 'SR'}",Brahms-SQ1-2_ann1_midi_3_171.0_173.5.mid
+3,174.0,176.5,{'PA'},,False,"{'SR', 'PA'}",Brahms-SQ1-2_ann1_midi_3_174.0_176.5.mid

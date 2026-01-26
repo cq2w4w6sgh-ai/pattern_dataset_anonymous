@@ -1,0 +1,9 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,136.0,152.0,set(),,False,"{'SP-PT', 'SR'}",Josquin-Missa_Pange_Lingua_I(half)_ann3_midi_0_136.0_152.0.mid
+0,154.0,164.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-Missa_Pange_Lingua_I(half)_ann3_midi_0_154.0_164.0.mid
+1,104.0,120.0,set(),,False,"{'SP-PT', 'SR'}",Josquin-Missa_Pange_Lingua_I(half)_ann3_midi_1_104.0_120.0.mid
+1,122.0,132.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Josquin-Missa_Pange_Lingua_I(half)_ann3_midi_1_122.0_132.0.mid
+2,128.0,144.0,set(),,False,"{'SP-PT', 'SR'}",Josquin-Missa_Pange_Lingua_I(half)_ann3_midi_2_128.0_144.0.mid
+2,146.0,156.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Josquin-Missa_Pange_Lingua_I(half)_ann3_midi_2_146.0_156.0.mid
+3,96.0,112.0,{'REF'},,False,{'REF'},Josquin-Missa_Pange_Lingua_I(half)_ann3_midi_3_96.0_112.0_REF.mid
+3,114.0,124.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Josquin-Missa_Pange_Lingua_I(half)_ann3_midi_3_114.0_124.0.mid

@@ -1,0 +1,75 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,37.25,38.5,{'PA'},,False,"{'SR', 'PA'}",Bach-wtc2f16_ann2_midi_0_37.25_38.5.mid
+0,40.25,41.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_0_40.25_41.5.mid
+0,43.25,45.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_0_43.25_45.0.mid
+0,73.25,74.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_0_73.25_74.5.mid
+0,79.25,81.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_0_79.25_81.0.mid
+0,82.25,83.5,{'PA'},,False,"{'SR', 'PA'}",Bach-wtc2f16_ann2_midi_0_82.25_83.5.mid
+0,85.25,86.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_0_85.25_86.5.mid
+0,88.25,90.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_0_88.25_90.0.mid
+0,106.25,107.5,{'PA'},,False,"{'SR', 'PA'}",Bach-wtc2f16_ann2_midi_0_106.25_107.5.mid
+0,109.25,110.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_0_109.25_110.5.mid
+0,112.25,114.0,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_0_112.25_114.0.mid
+0,175.25,176.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_0_175.25_176.5.mid
+0,178.25,179.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_0_178.25_179.5.mid
+0,181.25,183.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_0_181.25_183.0.mid
+0,223.25,224.5,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_0_223.25_224.5.mid
+0,226.25,227.5,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_0_226.25_227.5.mid
+0,228.25,229.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_0_228.25_229.5.mid
+1,25.25,26.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_1_25.25_26.5.mid
+1,28.25,29.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_1_28.25_29.5.mid
+1,31.25,33.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_1_31.25_33.0.mid
+1,94.25,95.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_1_94.25_95.5.mid
+1,97.25,98.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_1_97.25_98.5.mid
+1,100.25,102.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_1_100.25_102.0.mid
+1,175.25,176.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_1_175.25_176.5.mid
+1,178.25,179.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_1_178.25_179.5.mid
+1,181.25,183.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_1_181.25_183.0.mid
+1,199.25,200.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_1_199.25_200.5.mid
+1,202.25,203.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_1_202.25_203.5.mid
+1,205.25,206.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_1_205.25_206.5.mid
+1,208.25,209.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_1_208.25_209.5.mid
+1,211.25,213.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_1_211.25_213.0.mid
+1,225.25,227.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_1_225.25_227.0.mid
+1,237.25,238.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_1_237.25_238.5.mid
+1,240.25,241.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_1_240.25_241.5.mid
+2,13.25,14.5,{'PA'},,False,"{'SR', 'PA'}",Bach-wtc2f16_ann2_midi_2_13.25_14.5.mid
+2,16.25,17.5,{'REF'},,False,{'REF'},Bach-wtc2f16_ann2_midi_2_16.25_17.5_REF.mid
+2,19.25,21.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_2_19.25_21.0.mid
+2,37.5,38.5,{'F'},,False,{'F'},Bach-wtc2f16_ann2_midi_2_37.5_38.5.mid
+2,70.25,71.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_2_70.25_71.5.mid
+2,76.25,77.5,{'PA'},fixed annotation,False,"{'SR', 'PA'}",Bach-wtc2f16_ann2_midi_2_76.25_77.5.mid
+2,96.25,97.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_2_96.25_97.5.mid
+2,99.25,100.5,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_2_99.25_100.5.mid
+2,102.25,103.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_2_102.25_103.5.mid
+2,105.25,106.5,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_2_105.25_106.5.mid
+2,145.25,147.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_2_145.25_147.0.mid
+2,148.25,150.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Bach-wtc2f16_ann2_midi_2_148.25_150.0.mid
+2,151.25,152.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_2_151.25_152.5.mid
+2,154.25,155.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_2_154.25_155.5.mid
+2,157.25,159.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_2_157.25_159.0.mid
+2,224.25,226.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_2_224.25_226.0.mid
+2,226.5,227.5,{'F'},,False,{'F'},Bach-wtc2f16_ann2_midi_2_226.5_227.5.mid
+2,237.25,238.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_2_237.25_238.5.mid
+2,240.25,241.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_2_240.25_241.5.mid
+3,49.25,50.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_3_49.25_50.5.mid
+3,52.25,53.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_3_52.25_53.5.mid
+3,54.25,55.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_3_54.25_55.5.mid
+3,56.25,57.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_3_56.25_57.5.mid
+3,58.25,59.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_3_58.25_59.5.mid
+3,61.25,62.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_3_61.25_62.5.mid
+3,64.25,66.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_3_64.25_66.0.mid
+3,118.25,120.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Bach-wtc2f16_ann2_midi_3_118.25_120.0.mid
+3,121.25,123.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Bach-wtc2f16_ann2_midi_3_121.25_123.0.mid
+3,124.25,126.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Bach-wtc2f16_ann2_midi_3_124.25_126.0.mid
+3,133.25,134.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_3_133.25_134.5.mid
+3,136.25,137.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_3_136.25_137.5.mid
+3,139.25,141.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_3_139.25_141.0.mid
+3,166.25,167.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_3_166.25_167.5.mid
+3,169.25,170.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_3_169.25_170.5.mid
+3,172.25,173.5,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann2_midi_3_172.25_173.5.mid
+3,205.25,206.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_3_205.25_206.5.mid
+3,208.25,209.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_3_208.25_209.5.mid
+3,211.25,213.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f16_ann2_midi_3_211.25_213.0.mid
+3,222.25,223.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_3_222.25_223.5.mid
+3,228.25,229.5,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f16_ann2_midi_3_228.25_229.5.mid

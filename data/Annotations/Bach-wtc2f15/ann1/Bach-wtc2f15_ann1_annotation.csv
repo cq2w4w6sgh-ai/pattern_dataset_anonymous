@@ -1,0 +1,7 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.25,9.0,{'REF'},,False,{'REF'},Bach-wtc2f15_ann1_midi_0_0.25_9.0_REF.mid
+0,58.75,65.75,"{'F', 'PA'}",,False,"{'F', 'PA'}",Bach-wtc2f15_ann1_midi_0_58.75_65.75.mid
+1,10.75,19.5,{'PA'},,False,"{'SR', 'PA'}",Bach-wtc2f15_ann1_midi_1_10.75_19.5.mid
+1,96.25,103.25,{'F'},fixed annotation,False,{'F'},Bach-wtc2f15_ann1_midi_1_96.25_103.25.mid
+2,21.25,30.0,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f15_ann1_midi_2_21.25_30.0.mid
+2,48.25,57.0,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f15_ann1_midi_2_48.25_57.0.mid

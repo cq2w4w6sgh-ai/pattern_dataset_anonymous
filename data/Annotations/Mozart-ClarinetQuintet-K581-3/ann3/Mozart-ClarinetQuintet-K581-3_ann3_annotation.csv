@@ -1,0 +1,59 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,12.0,15.0,{'?'},closely related to Trio I,True,{'?'},Mozart-ClarinetQuintet-K581-3_ann3_midi_0_12.0_15.0.mid
+1,96.0,97.0,{'REF'},dyads that my not satisfy the criteria but still prominent motif,False,{'REF'},Mozart-ClarinetQuintet-K581-3_ann3_midi_1_96.0_97.0_REF.mid
+1,99.0,100.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_1_99.0_100.0.mid
+1,102.0,103.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_1_102.0_103.0.mid
+1,144.0,145.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_1_144.0_145.0.mid
+1,147.0,148.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_1_147.0_148.0.mid
+1,150.0,151.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_1_150.0_151.0.mid
+1,153.0,154.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_1_153.0_154.0.mid
+1,168.0,169.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_1_168.0_169.0.mid
+1,171.0,172.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_1_171.0_172.0.mid
+1,174.0,175.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_1_174.0_175.0.mid
+2,98.0,99.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_98.0_99.0.mid
+2,101.0,102.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_101.0_102.0.mid
+2,104.0,105.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_104.0_105.0.mid
+2,107.0,108.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_107.0_108.0.mid
+2,110.0,111.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_110.0_111.0.mid
+2,113.0,114.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_113.0_114.0.mid
+2,146.0,147.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_146.0_147.0.mid
+2,149.0,150.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_149.0_150.0.mid
+2,152.0,153.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_152.0_153.0.mid
+2,155.0,156.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_155.0_156.0.mid
+2,169.0,170.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_169.0_170.0.mid
+2,172.0,173.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_172.0_173.0.mid
+2,175.0,176.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_175.0_176.0.mid
+2,178.0,179.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_178.0_179.0.mid
+2,181.0,182.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_181.0_182.0.mid
+2,184.0,185.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_184.0_185.0.mid
+2,187.0,188.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_2_187.0_188.0.mid
+3,97.0,98.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_97.0_98.0.mid
+3,100.0,101.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_100.0_101.0.mid
+3,103.0,104.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_103.0_104.0.mid
+3,106.0,107.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_106.0_107.0.mid
+3,109.0,110.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_109.0_110.0.mid
+3,112.0,113.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_112.0_113.0.mid
+3,145.0,146.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_145.0_146.0.mid
+3,148.0,149.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_148.0_149.0.mid
+3,151.0,152.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_151.0_152.0.mid
+3,154.0,155.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_154.0_155.0.mid
+3,170.0,171.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_170.0_171.0.mid
+3,173.0,174.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_173.0_174.0.mid
+3,176.0,177.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_3_176.0_177.0.mid
+4,97.0,98.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_97.0_98.0.mid
+4,100.0,101.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_100.0_101.0.mid
+4,103.0,104.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_103.0_104.0.mid
+4,106.0,107.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_106.0_107.0.mid
+4,109.0,110.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_109.0_110.0.mid
+4,112.0,113.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_112.0_113.0.mid
+4,145.0,146.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_145.0_146.0.mid
+4,148.0,149.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_148.0_149.0.mid
+4,151.0,152.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_151.0_152.0.mid
+4,154.0,155.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_154.0_155.0.mid
+4,169.0,170.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_169.0_170.0.mid
+4,172.0,173.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_172.0_173.0.mid
+4,175.0,176.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_175.0_176.0.mid
+4,178.0,179.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_178.0_179.0.mid
+4,181.0,182.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_181.0_182.0.mid
+4,184.0,185.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_184.0_185.0.mid
+4,187.0,188.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-ClarinetQuintet-K581-3_ann3_midi_4_187.0_188.0.mid

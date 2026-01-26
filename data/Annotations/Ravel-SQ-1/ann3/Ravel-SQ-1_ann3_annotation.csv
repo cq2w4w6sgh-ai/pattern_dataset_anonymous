@@ -1,0 +1,5 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,92.0,97.5,{'REF'},,False,{'REF'},Ravel-SQ-1_ann3_midi_0_92.0_97.5_REF.mid
+0,98.0,103.5,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann3_midi_0_98.0_103.5.mid
+1,114.0,119.5,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann3_midi_1_114.0_119.5.mid
+2,108.0,113.5,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann3_midi_2_108.0_113.5.mid

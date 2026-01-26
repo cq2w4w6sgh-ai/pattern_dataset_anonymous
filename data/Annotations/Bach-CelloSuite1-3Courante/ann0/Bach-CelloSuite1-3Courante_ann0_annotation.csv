@@ -1,0 +1,13 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.5,1.5,{'PA'},,False,"{'SR', 'PA'}",Bach-CelloSuite1-3Courante_ann0_midi_0_0.5_1.5.mid
+0,3.5,4.5,{'PA'},,False,"{'SR', 'PA'}",Bach-CelloSuite1-3Courante_ann0_midi_0_3.5_4.5.mid
+0,6.5,7.5,{'REF'},,False,{'REF'},Bach-CelloSuite1-3Courante_ann0_midi_0_6.5_7.5_REF.mid
+0,9.5,10.5,set(),,False,"{'SP-PT', 'SR'}",Bach-CelloSuite1-3Courante_ann0_midi_0_9.5_10.5.mid
+0,19.5,20.5,{'PA'},,False,"{'SR', 'PA'}",Bach-CelloSuite1-3Courante_ann0_midi_0_19.5_20.5.mid
+0,24.5,25.5,{'PA'},,False,"{'SR', 'PA'}",Bach-CelloSuite1-3Courante_ann0_midi_0_24.5_25.5.mid
+0,27.5,28.5,{'NP'},,False,"{'SR', 'NP'}",Bach-CelloSuite1-3Courante_ann0_midi_0_27.5_28.5.mid
+0,57.5,58.5,{'PA'},,False,"{'SR', 'PA'}",Bach-CelloSuite1-3Courante_ann0_midi_0_57.5_58.5.mid
+0,60.5,61.5,set(),,False,"{'PA-TT', 'SR'}",Bach-CelloSuite1-3Courante_ann0_midi_0_60.5_61.5.mid
+0,75.5,76.5,{'PA'},,False,"{'SR', 'PA'}",Bach-CelloSuite1-3Courante_ann0_midi_0_75.5_76.5.mid
+0,78.5,79.5,set(),,False,"{'SP-PT', 'SR'}",Bach-CelloSuite1-3Courante_ann0_midi_0_78.5_79.5.mid
+0,92.5,93.5,{'PA'},,False,"{'SR', 'PA'}",Bach-CelloSuite1-3Courante_ann0_midi_0_92.5_93.5.mid

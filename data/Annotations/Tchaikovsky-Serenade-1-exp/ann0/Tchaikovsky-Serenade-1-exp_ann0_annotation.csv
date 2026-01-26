@@ -1,0 +1,13 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.0,9.0,{'REF'},fixed annotation,False,{'REF'},Tchaikovsky-Serenade-1-exp_ann0_midi_0_0.0_9.0_REF.mid
+0,46.0,55.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann0_midi_0_46.0_55.0.mid
+0,56.5,58.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Tchaikovsky-Serenade-1-exp_ann0_midi_0_56.5_58.0.mid
+0,64.0,73.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann0_midi_0_64.0_73.0.mid
+0,74.5,76.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Tchaikovsky-Serenade-1-exp_ann0_midi_0_74.5_76.0.mid
+6,0.0,9.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Tchaikovsky-Serenade-1-exp_ann0_midi_6_0.0_9.0.mid
+6,23.0,32.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann0_midi_6_23.0_32.0.mid
+6,46.0,55.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Tchaikovsky-Serenade-1-exp_ann0_midi_6_46.0_55.0.mid
+6,64.0,73.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Tchaikovsky-Serenade-1-exp_ann0_midi_6_64.0_73.0.mid
+7,0.0,9.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Tchaikovsky-Serenade-1-exp_ann0_midi_7_0.0_9.0.mid
+8,0.0,9.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Tchaikovsky-Serenade-1-exp_ann0_midi_8_0.0_9.0.mid
+8,23.0,32.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann0_midi_8_23.0_32.0.mid

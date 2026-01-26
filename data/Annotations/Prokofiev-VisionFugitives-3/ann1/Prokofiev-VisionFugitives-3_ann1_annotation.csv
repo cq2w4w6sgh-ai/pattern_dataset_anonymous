@@ -1,0 +1,10 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+1,0.0,3.5,{'REF'},,False,{'REF'},Prokofiev-VisionFugitives-3_ann1_midi_1_0.0_3.5_REF.mid
+1,4.0,7.5,set(),,False,"{'SP-PT', 'SR'}",Prokofiev-VisionFugitives-3_ann1_midi_1_4.0_7.5.mid
+1,8.0,11.0,"{'RA', 'I'}",,False,"{'SP-PT', 'RA', 'I'}",Prokofiev-VisionFugitives-3_ann1_midi_1_8.0_11.0.mid
+1,16.5,19.5,{'RA'},,False,"{'SP-PT', 'RA'}",Prokofiev-VisionFugitives-3_ann1_midi_1_16.5_19.5.mid
+1,20.5,23.5,{'RA'},,False,"{'SP-PT', 'RA'}",Prokofiev-VisionFugitives-3_ann1_midi_1_20.5_23.5.mid
+1,32.0,35.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Prokofiev-VisionFugitives-3_ann1_midi_1_32.0_35.0.mid
+1,36.0,39.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Prokofiev-VisionFugitives-3_ann1_midi_1_36.0_39.0.mid
+1,84.0,87.5,set(),,False,"{'SP-PT', 'SR'}",Prokofiev-VisionFugitives-3_ann1_midi_1_84.0_87.5.mid
+1,88.0,91.5,set(),,False,"{'SP-PT', 'SR'}",Prokofiev-VisionFugitives-3_ann1_midi_1_88.0_91.5.mid

@@ -1,0 +1,28 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,180.0,184.0,{'REF'},,False,{'REF'},Monteverdi-coppini3_ann3_midi_0_180.0_184.0_REF.mid
+0,190.0,194.0,"{'RA', 'NP'}",,False,"{'NP', 'RA-Off'}",Monteverdi-coppini3_ann3_midi_0_190.0_194.0.mid
+0,220.0,224.0,set(),,False,"{'SP-PT', 'SR'}",Monteverdi-coppini3_ann3_midi_0_220.0_224.0.mid
+0,230.0,234.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Monteverdi-coppini3_ann3_midi_0_230.0_234.0.mid
+0,264.0,268.0,{'RA'},,False,"{'SP-PT', 'RA'}",Monteverdi-coppini3_ann3_midi_0_264.0_268.0.mid
+0,274.0,278.0,set(),,False,"{'SP-PT', 'SR'}",Monteverdi-coppini3_ann3_midi_0_274.0_278.0.mid
+0,298.0,302.0,{'RA'},,False,"{'SP-PT', 'RA'}",Monteverdi-coppini3_ann3_midi_0_298.0_302.0.mid
+0,308.0,312.0,set(),,False,"{'SP-PT', 'SR'}",Monteverdi-coppini3_ann3_midi_0_308.0_312.0.mid
+1,180.0,184.0,set(),,False,"{'SP-PT', 'SR'}",Monteverdi-coppini3_ann3_midi_1_180.0_184.0.mid
+1,190.0,192.0,"{'RA', 'NP'}",,False,"{'RA', 'NP'}",Monteverdi-coppini3_ann3_midi_1_190.0_192.0.mid
+1,220.0,224.0,set(),,False,"{'SP-PT', 'SR'}",Monteverdi-coppini3_ann3_midi_1_220.0_224.0.mid
+1,264.0,268.0,{'RA'},,False,"{'SP-PT', 'RA'}",Monteverdi-coppini3_ann3_midi_1_264.0_268.0.mid
+1,274.0,278.0,{'PA'},,False,"{'SR', 'PA'}",Monteverdi-coppini3_ann3_midi_1_274.0_278.0.mid
+1,308.0,312.0,set(),,False,"{'SP-PT', 'SR'}",Monteverdi-coppini3_ann3_midi_1_308.0_312.0.mid
+2,178.0,182.0,{'PA'},,False,"{'SR', 'PA'}",Monteverdi-coppini3_ann3_midi_2_178.0_182.0.mid
+2,220.0,224.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Monteverdi-coppini3_ann3_midi_2_220.0_224.0.mid
+2,264.0,268.0,{'RA'},,False,"{'SP-PT', 'RA'}",Monteverdi-coppini3_ann3_midi_2_264.0_268.0.mid
+2,274.0,278.0,{'PA'},,False,"{'SR', 'PA'}",Monteverdi-coppini3_ann3_midi_2_274.0_278.0.mid
+2,298.0,302.0,{'RA'},,False,"{'SP-PT', 'RA'}",Monteverdi-coppini3_ann3_midi_2_298.0_302.0.mid
+2,308.0,312.0,set(),,False,"{'SP-PT', 'SR'}",Monteverdi-coppini3_ann3_midi_2_308.0_312.0.mid
+3,216.0,220.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Monteverdi-coppini3_ann3_midi_3_216.0_220.0.mid
+3,264.0,268.0,{'RA'},,False,"{'SP-PT', 'RA'}",Monteverdi-coppini3_ann3_midi_3_264.0_268.0.mid
+3,274.0,278.0,{'PA'},,False,"{'SR', 'PA'}",Monteverdi-coppini3_ann3_midi_3_274.0_278.0.mid
+3,308.0,312.0,set(),,False,"{'SP-PT', 'SR'}",Monteverdi-coppini3_ann3_midi_3_308.0_312.0.mid
+4,218.0,222.0,{'PA'},,False,"{'SR', 'PA'}",Monteverdi-coppini3_ann3_midi_4_218.0_222.0.mid
+4,298.0,302.0,{'RA'},,False,"{'SP-PT', 'RA'}",Monteverdi-coppini3_ann3_midi_4_298.0_302.0.mid
+4,308.0,312.0,{'PA'},,False,"{'SR', 'PA'}",Monteverdi-coppini3_ann3_midi_4_308.0_312.0.mid

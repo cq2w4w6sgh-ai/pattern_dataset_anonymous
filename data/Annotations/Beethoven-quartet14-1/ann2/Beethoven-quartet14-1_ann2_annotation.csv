@@ -1,0 +1,59 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,9.0,12.0,{'REF'},,False,{'REF'},Beethoven-quartet14-1_ann2_midi_0_9.0_12.0_REF.mid
+0,32.0,37.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Beethoven-quartet14-1_ann2_midi_0_32.0_37.0.mid
+0,57.0,60.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Beethoven-quartet14-1_ann2_midi_0_57.0_60.0.mid
+0,72.0,75.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_72.0_75.0.mid
+0,109.0,112.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet14-1_ann2_midi_0_109.0_112.0.mid
+0,113.0,116.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_113.0_116.0.mid
+0,117.0,120.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_117.0_120.0.mid
+0,142.0,145.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_142.0_145.0.mid
+0,145.0,148.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_145.0_148.0.mid
+0,149.0,152.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_149.0_152.0.mid
+0,173.0,176.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_173.0_176.0.mid
+0,177.0,180.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_177.0_180.0.mid
+0,182.0,184.0,{'F'},,False,{'F'},Beethoven-quartet14-1_ann2_midi_0_182.0_184.0.mid
+0,190.0,192.0,{'F'},,False,{'F'},Beethoven-quartet14-1_ann2_midi_0_190.0_192.0.mid
+0,194.0,196.0,{'F'},,False,{'F'},Beethoven-quartet14-1_ann2_midi_0_194.0_196.0.mid
+0,225.5,227.0,"{'RT', 'RA', 'F'}",,False,"{'RT', 'RA', 'F'}",Beethoven-quartet14-1_ann2_midi_0_225.5_227.0.mid
+0,227.5,229.0,"{'RT', 'RA', 'F'}",,False,"{'RT', 'RA', 'F'}",Beethoven-quartet14-1_ann2_midi_0_227.5_229.0.mid
+0,229.5,231.0,"{'RT', 'RA', 'F'}",,False,"{'RT', 'RA', 'F'}",Beethoven-quartet14-1_ann2_midi_0_229.5_231.0.mid
+0,231.5,233.0,"{'RT', 'RA', 'F'}",,False,"{'RT', 'RA', 'F'}",Beethoven-quartet14-1_ann2_midi_0_231.5_233.0.mid
+0,233.5,235.0,"{'RT', 'RA', 'F'}",,False,"{'RT', 'RA', 'F'}",Beethoven-quartet14-1_ann2_midi_0_233.5_235.0.mid
+0,235.5,237.0,"{'RT', 'RA', 'F'}",,False,"{'RT', 'RA', 'F'}",Beethoven-quartet14-1_ann2_midi_0_235.5_237.0.mid
+0,237.5,239.0,"{'RT', 'RA', 'F'}",,False,"{'RT', 'RA', 'F'}",Beethoven-quartet14-1_ann2_midi_0_237.5_239.0.mid
+0,239.5,241.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_239.5_241.0.mid
+0,328.0,332.0,{'RA'},,False,"{'PA-TT', 'RA'}",Beethoven-quartet14-1_ann2_midi_0_328.0_332.0.mid
+0,333.0,336.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_333.0_336.0.mid
+0,345.0,348.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_0_345.0_348.0.mid
+0,349.0,353.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Beethoven-quartet14-1_ann2_midi_0_349.0_353.0.mid
+0,377.5,378.5,"{'RT', 'RA', 'F'}",,False,"{'RT', 'RA', 'F'}",Beethoven-quartet14-1_ann2_midi_0_377.5_378.5.mid
+0,379.0,381.0,"{'RT', 'RA'}",,False,"{'SP-PT', 'RT', 'RA-Off'}",Beethoven-quartet14-1_ann2_midi_0_379.0_381.0.mid
+1,25.0,28.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet14-1_ann2_midi_1_25.0_28.0.mid
+1,57.0,60.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Beethoven-quartet14-1_ann2_midi_1_57.0_60.0.mid
+1,97.0,100.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet14-1_ann2_midi_1_97.0_100.0.mid
+1,122.0,125.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_1_122.0_125.0.mid
+1,161.0,164.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_1_161.0_164.0.mid
+1,165.0,168.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_1_165.0_168.0.mid
+1,169.0,172.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet14-1_ann2_midi_1_169.0_172.0.mid
+1,173.0,176.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Beethoven-quartet14-1_ann2_midi_1_173.0_176.0.mid
+1,193.0,196.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_1_193.0_196.0.mid
+1,337.0,340.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_1_337.0_340.0.mid
+2,41.0,44.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet14-1_ann2_midi_2_41.0_44.0.mid
+2,57.0,60.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet14-1_ann2_midi_2_57.0_60.0.mid
+2,149.0,152.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_2_149.0_152.0.mid
+2,161.0,164.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_2_161.0_164.0.mid
+2,165.0,168.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet14-1_ann2_midi_2_165.0_168.0.mid
+2,169.0,172.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_2_169.0_172.0.mid
+2,337.0,340.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Beethoven-quartet14-1_ann2_midi_2_337.0_340.0.mid
+2,349.0,353.0,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Beethoven-quartet14-1_ann2_midi_2_349.0_353.0.mid
+2,393.0,395.0,"{'RT', 'RA'}",,False,"{'SP-PT', 'RT', 'RA-Off'}",Beethoven-quartet14-1_ann2_midi_2_393.0_395.0.mid
+3,57.0,60.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet14-1_ann2_midi_3_57.0_60.0.mid
+3,153.0,156.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet14-1_ann2_midi_3_153.0_156.0.mid
+3,157.0,160.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_3_157.0_160.0.mid
+3,186.0,188.0,{'F'},,False,{'F'},Beethoven-quartet14-1_ann2_midi_3_186.0_188.0.mid
+3,190.0,193.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Beethoven-quartet14-1_ann2_midi_3_190.0_193.0.mid
+3,329.0,332.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_3_329.0_332.0.mid
+3,333.0,336.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet14-1_ann2_midi_3_333.0_336.0.mid
+3,337.0,340.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_3_337.0_340.0.mid
+3,341.0,344.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet14-1_ann2_midi_3_341.0_344.0.mid
+3,413.0,419.0,{'RT'},,False,"{'SP-PT', 'RT'}",Beethoven-quartet14-1_ann2_midi_3_413.0_419.0.mid

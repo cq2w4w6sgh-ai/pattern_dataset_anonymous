@@ -1,0 +1,18 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.5,2.5,{'REF'},,False,{'REF'},Schoenberg-op25-prelude_ann0_midi_0_0.5_2.5_REF.mid
+0,12.25,18.75,"{'PR', 'NR', 'PA'}",,False,"{'PR', 'NR', 'PA'}",Schoenberg-op25-prelude_ann0_midi_0_12.25_18.75.mid
+0,26.0,28.5,"{'PR', 'NR', 'I', 'PA'}",,False,"{'PR', 'NR', 'I', 'PA'}",Schoenberg-op25-prelude_ann0_midi_0_26.0_28.5.mid
+0,29.25,30.0,"{'PR', 'RA', 'PA'}",,False,"{'PR', 'RA', 'PA'}",Schoenberg-op25-prelude_ann0_midi_0_29.25_30.0.mid
+0,48.0,50.625,{'NR'},,False,"{'PA-TT', 'NR'}",Schoenberg-op25-prelude_ann0_midi_0_48.0_50.62.mid
+1,1.5,3.75,{'NR'},,False,"{'SP-PT', 'NR'}",Schoenberg-op25-prelude_ann0_midi_1_1.5_3.75.mid
+1,14.25,15.5,"{'NR', 'I', 'PA'}",,False,"{'NR', 'I', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_14.25_15.5.mid
+1,16.75,18.0,"{'PR', 'NR', 'I', 'PA'}",,False,"{'PR', 'NR', 'I', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_16.75_18.0.mid
+1,32.25,32.75,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_32.25_32.75.mid
+1,36.25,37.5,"{'NR', 'I', 'PA'}",,False,"{'NR', 'I', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_36.25_37.5.mid
+1,37.5,38.75,"{'PR', 'NR', 'I', 'PA'}",,False,"{'PR', 'NR', 'I', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_37.5_38.75.mid
+1,39.0,43.5,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_39.0_43.5.mid
+1,50.75,52.5,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_50.75_52.5.mid
+1,63.25,64.5,"{'NR', 'I', 'PA'}",,False,"{'NR', 'I', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_63.25_64.5.mid
+1,65.0,65.75,"{'PR', 'NR', 'I', 'PA'}",,False,"{'PR', 'NR', 'I', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_65.0_65.75.mid
+1,65.75,67.25,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_65.75_67.25.mid
+1,72.5,72.75,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schoenberg-op25-prelude_ann0_midi_1_72.5_72.75.mid

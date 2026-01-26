@@ -1,0 +1,25 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,14.0,18.0,"{'RA', 'I'}",,False,"{'PA-TT', 'RA', 'I'}",Byrd-Ave_verum_corpus_ann2_midi_0_14.0_18.0.mid
+0,22.0,26.0,{'RA'},,False,"{'SP-PT', 'RA'}",Byrd-Ave_verum_corpus_ann2_midi_0_22.0_26.0.mid
+0,31.0,34.0,{'REF'},this is related to the other motives but probably too generic to point out every pattern,False,{'REF'},Byrd-Ave_verum_corpus_ann2_midi_0_31.0_34.0_REF.mid
+0,39.0,42.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Byrd-Ave_verum_corpus_ann2_midi_0_39.0_42.0.mid
+0,59.0,62.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Byrd-Ave_verum_corpus_ann2_midi_0_59.0_62.0.mid
+0,72.0,76.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann2_midi_0_72.0_76.0.mid
+0,87.0,90.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ave_verum_corpus_ann2_midi_0_87.0_90.0.mid
+0,184.0,189.0,{'RA'},,False,"{'SP-PT', 'RA'}",Byrd-Ave_verum_corpus_ann2_midi_0_184.0_189.0.mid
+1,31.0,34.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ave_verum_corpus_ann2_midi_1_31.0_34.0.mid
+1,40.0,44.0,"{'RA', 'I'}",,False,"{'PA-TT', 'RA', 'I'}",Byrd-Ave_verum_corpus_ann2_midi_1_40.0_44.0.mid
+1,59.0,62.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Byrd-Ave_verum_corpus_ann2_midi_1_59.0_62.0.mid
+1,68.0,69.5,"{'RT', 'RA'}",,False,"{'RT', 'PA-TT', 'RA-Off'}",Byrd-Ave_verum_corpus_ann2_midi_1_68.0_69.5.mid
+1,71.0,74.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann2_midi_1_71.0_74.0.mid
+1,87.0,90.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ave_verum_corpus_ann2_midi_1_87.0_90.0.mid
+2,14.0,18.0,"{'RA', 'I'}",,False,"{'PA-TT', 'RA', 'I'}",Byrd-Ave_verum_corpus_ann2_midi_2_14.0_18.0.mid
+2,24.0,26.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann2_midi_2_24.0_26.0.mid
+2,67.0,70.0,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann2_midi_2_67.0_70.0.mid
+2,77.0,80.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Byrd-Ave_verum_corpus_ann2_midi_2_77.0_80.0.mid
+3,25.5,26.0,"{'RA', 'I'}",,False,"{'SP-PT', 'RA', 'I'}",Byrd-Ave_verum_corpus_ann2_midi_3_25.5_26.0.mid
+3,31.0,34.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ave_verum_corpus_ann2_midi_3_31.0_34.0.mid
+3,59.0,62.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Byrd-Ave_verum_corpus_ann2_midi_3_59.0_62.0.mid
+3,68.0,70.0,"{'RA', 'I'}",,False,"{'PA-TT', 'RA', 'I'}",Byrd-Ave_verum_corpus_ann2_midi_3_68.0_70.0.mid
+3,75.0,80.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Byrd-Ave_verum_corpus_ann2_midi_3_75.0_80.0.mid
+3,87.0,90.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ave_verum_corpus_ann2_midi_3_87.0_90.0.mid

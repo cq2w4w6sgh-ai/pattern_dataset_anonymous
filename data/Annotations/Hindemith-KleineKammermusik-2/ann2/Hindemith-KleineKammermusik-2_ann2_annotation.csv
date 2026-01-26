@@ -1,0 +1,16 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,256.0,257.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Hindemith-KleineKammermusik-2_ann2_midi_0_256.0_257.0.mid
+0,262.0,263.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Hindemith-KleineKammermusik-2_ann2_midi_0_262.0_263.0.mid
+1,76.0,78.0,{'REF'},,False,{'REF'},Hindemith-KleineKammermusik-2_ann2_midi_1_76.0_78.0_REF.mid
+1,81.0,82.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Hindemith-KleineKammermusik-2_ann2_midi_1_81.0_82.0.mid
+1,85.0,87.0,set(),,False,"{'SP-PT', 'SR'}",Hindemith-KleineKammermusik-2_ann2_midi_1_85.0_87.0.mid
+1,90.0,91.0,{'PA'},,False,"{'SR', 'PA'}",Hindemith-KleineKammermusik-2_ann2_midi_1_90.0_91.0.mid
+1,154.0,156.0,set(),,False,"{'SP-PT', 'SR'}",Hindemith-KleineKammermusik-2_ann2_midi_1_154.0_156.0.mid
+1,159.0,160.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Hindemith-KleineKammermusik-2_ann2_midi_1_159.0_160.0.mid
+1,163.0,165.0,set(),,False,"{'SP-PT', 'SR'}",Hindemith-KleineKammermusik-2_ann2_midi_1_163.0_165.0.mid
+1,168.0,169.0,{'PA'},,False,"{'SR', 'PA'}",Hindemith-KleineKammermusik-2_ann2_midi_1_168.0_169.0.mid
+1,244.0,245.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Hindemith-KleineKammermusik-2_ann2_midi_1_244.0_245.0.mid
+1,248.0,249.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Hindemith-KleineKammermusik-2_ann2_midi_1_248.0_249.0.mid
+1,262.0,264.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Hindemith-KleineKammermusik-2_ann2_midi_1_262.0_264.0.mid
+3,95.0,98.0,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Hindemith-KleineKammermusik-2_ann2_midi_3_95.0_98.0.mid
+3,131.0,134.0,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Hindemith-KleineKammermusik-2_ann2_midi_3_131.0_134.0.mid

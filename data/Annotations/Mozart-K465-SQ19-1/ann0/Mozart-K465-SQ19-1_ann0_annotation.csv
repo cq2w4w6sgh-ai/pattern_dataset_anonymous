@@ -1,0 +1,8 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,4.0,12.0,{'RA'},,False,"{'PA-TT', 'RA'}",Mozart-K465-SQ19-1_ann0_midi_0_4.0_12.0.mid
+0,16.0,24.0,{'RA'},,False,"{'PA-TT', 'RA'}",Mozart-K465-SQ19-1_ann0_midi_0_16.0_24.0.mid
+1,3.0,7.0,{'F'},,False,{'F'},Mozart-K465-SQ19-1_ann0_midi_1_3.0_7.0.mid
+1,15.0,19.0,{'F'},,False,{'F'},Mozart-K465-SQ19-1_ann0_midi_1_15.0_19.0.mid
+1,34.0,39.0,{'?'},fragmentation and pitch alteration,True,{'?'},Mozart-K465-SQ19-1_ann0_midi_1_34.0_39.0.mid
+2,2.0,9.0,{'REF'},,False,{'REF'},Mozart-K465-SQ19-1_ann0_midi_2_2.0_9.0_REF.mid
+2,14.0,21.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-1_ann0_midi_2_14.0_21.0.mid

@@ -1,0 +1,26 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,16.5,22.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_0_16.5_22.0.mid
+0,42.5,48.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_0_42.5_48.0.mid
+0,54.5,60.0,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f05_ann0_midi_0_54.5_60.0.mid
+0,84.5,90.0,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f05_ann0_midi_0_84.5_90.0.mid
+0,107.5,113.0,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f05_ann0_midi_0_107.5_113.0.mid
+0,130.5,138.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_0_130.5_138.0.mid
+0,174.5,180.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_0_174.5_180.0.mid
+1,6.5,12.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_1_6.5_12.0.mid
+1,36.5,42.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_1_36.5_42.0.mid
+1,52.5,58.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_1_52.5_58.0.mid
+1,86.5,92.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_1_86.5_92.0.mid
+1,108.5,110.0,{'F'},,False,{'F'},Bach-wtc2f05_ann0_midi_1_108.5_110.0.mid
+1,129.5,136.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_1_129.5_136.0.mid
+1,175.5,182.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_1_175.5_182.0.mid
+2,0.5,6.0,{'REF'},,False,{'REF'},Bach-wtc2f05_ann0_midi_2_0.5_6.0_REF.mid
+2,80.5,86.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_2_80.5_86.0.mid
+2,128.5,136.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_2_128.5_136.0.mid
+2,156.5,162.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_2_156.5_162.0.mid
+2,172.5,174.0,{'F'},,False,{'F'},Bach-wtc2f05_ann0_midi_2_172.5_174.0.mid
+2,176.5,182.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_2_176.5_182.0.mid
+3,20.5,26.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_3_20.5_26.0.mid
+3,96.5,102.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_3_96.5_102.0.mid
+3,106.5,112.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_3_106.5_112.0.mid
+3,168.5,174.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Bach-wtc2f05_ann0_midi_3_168.5_174.0.mid
+3,177.5,184.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Bach-wtc2f05_ann0_midi_3_177.5_184.0.mid

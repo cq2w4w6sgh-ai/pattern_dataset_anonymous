@@ -1,0 +1,162 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,80.5,86.5,{'NR'},,False,"{'SP-PT', 'NR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_80.5_86.5.mid
+0,86.5,92.5,{'NR'},,False,"{'SP-PT', 'NR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_86.5_92.5.mid
+0,107.5,112.0,{'REF'},,False,{'REF'},Tchaikovsky-Serenade-1-exp_ann1_midi_0_107.5_112.0_REF.mid
+0,113.5,118.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_113.5_118.0.mid
+0,131.5,136.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_131.5_136.0.mid
+0,137.5,142.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_137.5_142.0.mid
+0,151.0,154.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_151.0_154.0.mid
+0,155.5,160.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_155.5_160.0.mid
+0,161.5,166.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_161.5_166.0.mid
+0,167.5,168.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_0_167.5_168.5.mid
+0,169.0,170.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_169.0_170.0.mid
+0,170.5,171.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_170.5_171.5.mid
+0,172.0,173.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_172.0_173.0.mid
+0,173.5,174.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_173.5_174.5.mid
+0,179.5,184.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_179.5_184.0.mid
+0,185.5,190.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_185.5_190.0.mid
+0,191.5,192.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_0_191.5_192.5.mid
+0,193.0,194.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_193.0_194.0.mid
+0,194.5,195.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_194.5_195.5.mid
+0,196.0,197.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_196.0_197.0.mid
+0,197.5,198.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_197.5_198.5.mid
+0,203.5,206.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_203.5_206.5.mid
+0,209.5,212.5,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_209.5_212.5.mid
+0,215.5,216.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_0_215.5_216.5.mid
+0,217.0,218.0,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_0_217.0_218.0.mid
+0,218.5,219.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_0_218.5_219.5.mid
+0,220.0,221.0,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_0_220.0_221.0.mid
+0,221.5,222.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_0_221.5_222.5.mid
+0,230.5,235.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_230.5_235.0.mid
+0,242.5,247.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_0_242.5_247.0.mid
+1,107.5,112.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_107.5_112.0.mid
+1,113.5,118.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_113.5_118.0.mid
+1,131.5,136.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_131.5_136.0.mid
+1,137.5,142.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_137.5_142.0.mid
+1,161.5,166.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_161.5_166.0.mid
+1,167.5,168.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_1_167.5_168.5.mid
+1,169.0,170.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_169.0_170.0.mid
+1,170.5,171.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_170.5_171.5.mid
+1,172.0,173.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_172.0_173.0.mid
+1,173.5,174.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_173.5_174.5.mid
+1,179.5,184.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_179.5_184.0.mid
+1,185.5,190.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_185.5_190.0.mid
+1,191.5,192.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_1_191.5_192.5.mid
+1,193.0,194.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_193.0_194.0.mid
+1,194.5,195.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_194.5_195.5.mid
+1,196.0,197.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_196.0_197.0.mid
+1,197.5,198.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_197.5_198.5.mid
+1,203.5,206.5,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_203.5_206.5.mid
+1,209.5,212.5,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_209.5_212.5.mid
+1,215.5,216.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_1_215.5_216.5.mid
+1,217.0,218.0,"{'F', 'PA', 'I'}",,False,"{'F', 'PA', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_217.0_218.0.mid
+1,218.5,219.5,"{'F', 'PA'}",,False,"{'F', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_1_218.5_219.5.mid
+1,220.0,221.0,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_1_220.0_221.0.mid
+1,221.5,222.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_1_221.5_222.5.mid
+2,80.5,86.5,"{'NR', 'I'}",,False,"{'PA-TT', 'I', 'NR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_80.5_86.5.mid
+2,86.5,92.5,"{'NR', 'I'}",,False,"{'PA-TT', 'I', 'NR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_86.5_92.5.mid
+2,107.5,112.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_107.5_112.0.mid
+2,113.5,118.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_113.5_118.0.mid
+2,131.5,136.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_131.5_136.0.mid
+2,137.5,142.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_137.5_142.0.mid
+2,155.5,160.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_155.5_160.0.mid
+2,161.5,166.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_161.5_166.0.mid
+2,167.5,168.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_2_167.5_168.5.mid
+2,169.0,170.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_169.0_170.0.mid
+2,170.5,171.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_170.5_171.5.mid
+2,172.0,173.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_172.0_173.0.mid
+2,173.5,174.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_173.5_174.5.mid
+2,179.5,184.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_179.5_184.0.mid
+2,185.5,190.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_185.5_190.0.mid
+2,191.5,192.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_2_191.5_192.5.mid
+2,193.0,194.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_193.0_194.0.mid
+2,194.5,195.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_194.5_195.5.mid
+2,196.0,197.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_196.0_197.0.mid
+2,197.5,198.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_197.5_198.5.mid
+2,203.5,206.5,"{'RA', 'I', 'PA'}",,False,"{'I', 'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_203.5_206.5.mid
+2,209.5,212.5,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_209.5_212.5.mid
+2,215.5,216.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_215.5_216.5.mid
+2,221.5,222.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_2_221.5_222.5.mid
+3,80.5,86.5,"{'NR', 'I', 'PA'}",,False,"{'NR', 'I', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_80.5_86.5.mid
+3,86.5,92.5,"{'NR', 'I', 'PA'}",,False,"{'NR', 'I', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_86.5_92.5.mid
+3,107.5,112.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_107.5_112.0.mid
+3,113.5,118.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_113.5_118.0.mid
+3,131.5,136.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_131.5_136.0.mid
+3,137.5,142.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_137.5_142.0.mid
+3,155.5,160.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_155.5_160.0.mid
+3,161.5,166.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_161.5_166.0.mid
+3,167.5,168.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_3_167.5_168.5.mid
+3,169.0,170.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_169.0_170.0.mid
+3,170.5,171.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_170.5_171.5.mid
+3,172.0,173.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_172.0_173.0.mid
+3,173.5,174.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_173.5_174.5.mid
+3,179.5,184.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_179.5_184.0.mid
+3,185.5,190.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_185.5_190.0.mid
+3,191.5,192.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_3_191.5_192.5.mid
+3,193.0,194.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_193.0_194.0.mid
+3,194.5,195.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_194.5_195.5.mid
+3,196.0,197.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_196.0_197.0.mid
+3,197.5,198.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_197.5_198.5.mid
+3,203.5,206.5,"{'RA', 'I', 'PA'}",,False,"{'I', 'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_203.5_206.5.mid
+3,209.5,212.5,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_3_209.5_212.5.mid
+3,215.5,216.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_3_215.5_216.5.mid
+3,221.5,222.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_3_221.5_222.5.mid
+4,107.5,112.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_107.5_112.0.mid
+4,113.5,118.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_113.5_118.0.mid
+4,131.5,136.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_131.5_136.0.mid
+4,137.5,142.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_137.5_142.0.mid
+4,155.5,160.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_155.5_160.0.mid
+4,161.5,166.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_161.5_166.0.mid
+4,167.5,168.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_4_167.5_168.5.mid
+4,169.0,170.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_169.0_170.0.mid
+4,170.5,171.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_170.5_171.5.mid
+4,172.0,173.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_172.0_173.0.mid
+4,173.5,174.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_173.5_174.5.mid
+4,179.5,184.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_179.5_184.0.mid
+4,185.5,190.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_185.5_190.0.mid
+4,191.5,192.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_4_191.5_192.5.mid
+4,193.0,194.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_193.0_194.0.mid
+4,194.5,195.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_194.5_195.5.mid
+4,196.0,197.0,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_196.0_197.0.mid
+4,197.5,198.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_197.5_198.5.mid
+4,203.5,206.5,"{'RA', 'I', 'PA'}",,False,"{'I', 'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_203.5_206.5.mid
+4,209.5,212.5,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_209.5_212.5.mid
+4,215.5,216.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_4_215.5_216.5.mid
+4,220.0,221.0,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_4_220.0_221.0.mid
+5,107.5,112.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_5_107.5_112.0.mid
+5,113.5,118.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_5_113.5_118.0.mid
+5,131.5,136.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_5_131.5_136.0.mid
+5,137.5,142.0,set(),,False,"{'SP-PT', 'SR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_5_137.5_142.0.mid
+5,203.5,206.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_5_203.5_206.5.mid
+5,209.5,212.5,"{'RA', 'I', 'PA'}",,False,"{'I', 'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_5_209.5_212.5.mid
+5,221.5,222.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_5_221.5_222.5.mid
+6,80.5,86.5,"{'NR', 'I', 'PA'}",,False,"{'NR', 'I', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_80.5_86.5.mid
+6,86.5,92.5,"{'NR', 'I', 'PA'}",,False,"{'NR', 'I', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_86.5_92.5.mid
+6,107.5,112.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_107.5_112.0.mid
+6,113.5,118.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_113.5_118.0.mid
+6,131.5,136.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_131.5_136.0.mid
+6,137.5,142.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_137.5_142.0.mid
+6,203.5,206.5,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_203.5_206.5.mid
+6,209.5,212.5,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_209.5_212.5.mid
+6,215.5,216.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_215.5_216.5.mid
+6,221.5,222.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_221.5_222.5.mid
+6,224.5,229.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_224.5_229.0.mid
+6,236.5,241.0,{'PA'},,False,"{'SR', 'PA'}",Tchaikovsky-Serenade-1-exp_ann1_midi_6_236.5_241.0.mid
+7,80.5,86.5,"{'NR', 'I'}",,False,"{'PA-TT', 'I', 'NR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_7_80.5_86.5.mid
+7,86.5,92.5,"{'NR', 'I'}",,False,"{'PA-TT', 'I', 'NR'}",Tchaikovsky-Serenade-1-exp_ann1_midi_7_86.5_92.5.mid
+7,107.5,112.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_7_107.5_112.0.mid
+7,113.5,118.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_7_113.5_118.0.mid
+7,131.5,136.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_7_131.5_136.0.mid
+7,137.5,142.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_7_137.5_142.0.mid
+7,203.5,206.5,"{'RA', 'I'}",,False,"{'SP-PT', 'I', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_7_203.5_206.5.mid
+7,209.5,212.5,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_7_209.5_212.5.mid
+7,215.5,216.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_7_215.5_216.5.mid
+7,221.5,222.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_7_221.5_222.5.mid
+8,107.5,112.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_8_107.5_112.0.mid
+8,113.5,118.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_8_113.5_118.0.mid
+8,131.5,136.0,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_8_131.5_136.0.mid
+8,137.5,142.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_8_137.5_142.0.mid
+8,203.5,206.5,"{'RA', 'I'}",,False,"{'SP-PT', 'I', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_8_203.5_206.5.mid
+8,209.5,212.5,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Tchaikovsky-Serenade-1-exp_ann1_midi_8_209.5_212.5.mid
+8,215.5,216.5,{'F'},,False,{'F'},Tchaikovsky-Serenade-1-exp_ann1_midi_8_215.5_216.5.mid
+8,221.5,222.5,"{'F', 'I'}",,False,"{'F', 'I'}",Tchaikovsky-Serenade-1-exp_ann1_midi_8_221.5_222.5.mid

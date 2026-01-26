@@ -1,0 +1,13 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.0,4.5,{'REF'},,False,{'REF'},Scriabin-op11no1_ann1_midi_0_0.0_4.5_REF.mid
+0,10.0,14.5,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann1_midi_0_10.0_14.5.mid
+0,20.0,24.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann1_midi_0_20.0_24.5.mid
+0,25.0,29.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann1_midi_0_25.0_29.5.mid
+0,30.0,34.5,"{'?', 'PA'}",,True,"{'?', 'PA'}",Scriabin-op11no1_ann1_midi_0_30.0_34.5.mid
+0,40.0,44.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann1_midi_0_40.0_44.5.mid
+0,50.0,54.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann1_midi_0_50.0_54.5.mid
+0,60.0,64.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann1_midi_0_60.0_64.5.mid
+0,65.0,69.5,{'PA'},,False,"{'SR', 'PA'}",Scriabin-op11no1_ann1_midi_0_65.0_69.5.mid
+0,90.0,94.5,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann1_midi_0_90.0_94.5.mid
+0,100.0,104.5,set(),,False,"{'SP-PT', 'SR'}",Scriabin-op11no1_ann1_midi_0_100.0_104.5.mid
+1,102.5,104.5,{'F'},fixed annotation,False,{'F'},Scriabin-op11no1_ann1_midi_1_102.5_104.5.mid

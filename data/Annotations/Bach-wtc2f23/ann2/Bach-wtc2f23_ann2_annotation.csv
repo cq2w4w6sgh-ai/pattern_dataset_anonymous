@@ -1,0 +1,54 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,71.0,73.0,"{'RA', 'F', 'PA'}",,False,"{'RA', 'F', 'PA'}",Bach-wtc2f23_ann2_midi_0_71.0_73.0.mid
+0,109.0,116.0,{'REF'},,False,{'REF'},Bach-wtc2f23_ann2_midi_0_109.0_116.0_REF.mid
+0,126.0,128.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_0_126.0_128.0.mid
+0,129.0,136.0,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f23_ann2_midi_0_129.0_136.0.mid
+0,186.0,188.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_0_186.0_188.0.mid
+0,193.0,200.0,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f23_ann2_midi_0_193.0_200.0.mid
+0,225.5,228.0,"{'RT', 'RA', 'F'}",,False,"{'RT', 'RA', 'F'}",Bach-wtc2f23_ann2_midi_0_225.5_228.0.mid
+0,239.0,245.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Bach-wtc2f23_ann2_midi_0_239.0_245.0.mid
+0,289.0,291.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_0_289.0_291.5.mid
+0,334.0,335.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_0_334.0_335.5.mid
+0,397.0,402.0,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_0_397.0_402.0.mid
+1,69.0,72.0,"{'RA', 'F', 'PA'}",,False,"{'RA', 'F', 'PA'}",Bach-wtc2f23_ann2_midi_1_69.0_72.0.mid
+1,73.0,75.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_1_73.0_75.0.mid
+1,155.0,157.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_1_155.0_157.5.mid
+1,169.0,176.0,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f23_ann2_midi_1_169.0_176.0.mid
+1,188.5,191.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_1_188.5_191.5.mid
+1,245.0,247.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_1_245.0_247.5.mid
+1,253.0,256.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_1_253.0_256.0.mid
+1,261.0,264.0,"{'RA', 'F', 'PA'}",,False,"{'RA', 'F', 'PA'}",Bach-wtc2f23_ann2_midi_1_261.0_264.0.mid
+1,290.0,293.5,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_1_290.0_293.5.mid
+1,341.0,348.0,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f23_ann2_midi_1_341.0_348.0.mid
+1,355.0,358.5,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_1_355.0_358.5.mid
+1,363.0,366.5,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_1_363.0_366.5.mid
+1,376.0,377.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_1_376.0_377.5.mid
+1,378.0,379.5,"{'PR', 'F'}",,False,"{'PR', 'F'}",Bach-wtc2f23_ann2_midi_1_378.0_379.5.mid
+1,380.0,381.5,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-wtc2f23_ann2_midi_1_380.0_381.5.mid
+1,386.0,390.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_1_386.0_390.0.mid
+1,409.0,411.5,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_1_409.0_411.5.mid
+2,68.0,71.0,"{'RT', 'F', 'I'}",,False,"{'RT', 'F', 'I'}",Bach-wtc2f23_ann2_midi_2_68.0_71.0.mid
+2,78.0,79.5,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-wtc2f23_ann2_midi_2_78.0_79.5.mid
+2,137.0,140.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_2_137.0_140.0.mid
+2,145.0,150.0,"{'RT', 'RA', 'F'}",,False,"{'RT', 'RA', 'F'}",Bach-wtc2f23_ann2_midi_2_145.0_150.0.mid
+2,152.0,154.0,"{'RA', 'F', 'PA'}",,False,"{'RA', 'F', 'PA'}",Bach-wtc2f23_ann2_midi_2_152.0_154.0.mid
+2,249.0,251.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_2_249.0_251.5.mid
+2,257.0,259.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_2_257.0_259.5.mid
+2,265.0,267.5,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_2_265.0_267.5.mid
+2,280.0,281.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_2_280.0_281.5.mid
+2,282.0,288.0,"{'F', 'PA'}",,False,"{'F', 'PA'}",Bach-wtc2f23_ann2_midi_2_282.0_288.0.mid
+2,289.0,296.0,"{'F', 'PA'}",,False,"{'F', 'PA'}",Bach-wtc2f23_ann2_midi_2_289.0_296.0.mid
+2,297.0,299.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_2_297.0_299.5.mid
+2,369.0,372.0,"{'F', 'PA'}",,False,"{'F', 'PA'}",Bach-wtc2f23_ann2_midi_2_369.0_372.0.mid
+2,373.0,380.0,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f23_ann2_midi_2_373.0_380.0.mid
+3,121.0,128.0,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f23_ann2_midi_3_121.0_128.0.mid
+3,141.0,148.0,set(),,False,"{'PA-TT', 'SR'}",Bach-wtc2f23_ann2_midi_3_141.0_148.0.mid
+3,215.0,219.5,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f23_ann2_midi_3_215.0_219.5.mid
+3,220.0,223.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_3_220.0_223.5.mid
+3,224.0,227.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_3_224.0_227.5.mid
+3,228.0,230.0,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_3_228.0_230.0.mid
+3,320.0,321.5,"{'PR', 'F'}",,False,"{'PR', 'F'}",Bach-wtc2f23_ann2_midi_3_320.0_321.5.mid
+3,322.0,323.5,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_3_322.0_323.5.mid
+3,351.0,358.0,{'PA'},fixed ann,False,"{'SR', 'PA'}",Bach-wtc2f23_ann2_midi_3_351.0_358.0.mid
+3,359.0,366.0,{'PA'},added,False,"{'SR', 'PA'}",Bach-wtc2f23_ann2_midi_3_359.0_366.0.mid
+3,405.0,407.0,{'F'},,False,{'F'},Bach-wtc2f23_ann2_midi_3_405.0_407.0.mid

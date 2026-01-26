@@ -1,0 +1,62 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,28.5,30.0,"{'RT', 'RA'}",,False,"{'SP-PT', 'RT', 'RA-Off'}",Ravel-SQ-1_ann2_midi_0_28.5_30.0.mid
+0,33.0,36.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Ravel-SQ-1_ann2_midi_0_33.0_36.0.mid
+0,37.0,38.5,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_0_37.0_38.5.mid
+0,40.0,43.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_0_40.0_43.0.mid
+0,52.0,55.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_0_52.0_55.0.mid
+0,60.0,63.0,set(),,False,"{'SP-PT', 'SR'}",Ravel-SQ-1_ann2_midi_0_60.0_63.0.mid
+0,124.0,124.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_0_124.0_124.75.mid
+0,125.0,125.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_0_125.0_125.75.mid
+0,126.0,126.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_0_126.0_126.75.mid
+0,127.0,127.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_0_127.0_127.75.mid
+0,132.0,132.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_0_132.0_132.75.mid
+0,133.0,133.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_0_133.0_133.75.mid
+0,134.0,134.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_0_134.0_134.75.mid
+0,135.0,135.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_0_135.0_135.75.mid
+0,369.0,372.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Ravel-SQ-1_ann2_midi_0_369.0_372.0.mid
+0,373.0,374.5,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_0_373.0_374.5.mid
+1,0.0,3.0,{'REF'},,False,{'REF'},Ravel-SQ-1_ann2_midi_1_0.0_3.0_REF.mid
+1,4.0,7.0,{'REF'},,False,{'REF'},Ravel-SQ-1_ann2_midi_1_4.0_7.0.mid
+1,8.0,11.0,{'REF'},,False,{'REF'},Ravel-SQ-1_ann2_midi_1_8.0_11.0.mid
+1,32.0,35.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_1_32.0_35.0.mid
+1,41.0,44.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Ravel-SQ-1_ann2_midi_1_41.0_44.0.mid
+1,45.0,46.5,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_45.0_46.5.mid
+1,48.0,51.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_1_48.0_51.0.mid
+1,56.0,59.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_1_56.0_59.0.mid
+1,68.0,71.0,set(),,False,"{'SP-PT', 'SR'}",Ravel-SQ-1_ann2_midi_1_68.0_71.0.mid
+1,72.0,75.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_1_72.0_75.0.mid
+1,92.0,92.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_92.0_92.75.mid
+1,93.0,93.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_93.0_93.75.mid
+1,94.0,94.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_94.0_94.75.mid
+1,95.0,95.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_95.0_95.75.mid
+1,98.0,98.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_98.0_98.75.mid
+1,99.0,99.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_99.0_99.75.mid
+1,100.0,100.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_100.0_100.75.mid
+1,101.0,101.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_101.0_101.75.mid
+1,106.0,106.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_106.0_106.75.mid
+1,107.0,107.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_107.0_107.75.mid
+1,360.0,360.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_360.0_360.75.mid
+1,361.0,361.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_361.0_361.75.mid
+1,362.0,362.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_362.0_362.75.mid
+1,363.0,363.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_363.0_363.75.mid
+1,364.0,364.75,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_1_364.0_364.75.mid
+1,365.0,365.75,{'RT'},,False,"{'SP-PT', 'RT'}",Ravel-SQ-1_ann2_midi_1_365.0_365.75.mid
+2,341.0,344.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Ravel-SQ-1_ann2_midi_2_341.0_344.0.mid
+2,345.0,346.5,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_2_345.0_346.5.mid
+3,0.0,3.0,{'REF'},,False,{'REF'},Ravel-SQ-1_ann2_midi_3_0.0_3.0.mid
+3,4.0,7.0,{'REF'},,False,{'REF'},Ravel-SQ-1_ann2_midi_3_4.0_7.0.mid
+3,8.0,11.0,{'REF'},,False,{'REF'},Ravel-SQ-1_ann2_midi_3_8.0_11.0.mid
+3,64.0,67.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Ravel-SQ-1_ann2_midi_3_64.0_67.0.mid
+3,68.0,71.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_3_68.0_71.0.mid
+3,72.0,75.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_3_72.0_75.0.mid
+3,76.0,79.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_3_76.0_79.0.mid
+3,176.0,177.5,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_3_176.0_177.5.mid
+3,178.0,179.5,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_3_178.0_179.5.mid
+3,180.0,185.5,"{'RT', 'RA'}",,False,"{'RT', 'PA-TT', 'RA'}",Ravel-SQ-1_ann2_midi_3_180.0_185.5.mid
+3,186.0,187.5,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_3_186.0_187.5.mid
+3,369.0,372.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Ravel-SQ-1_ann2_midi_3_369.0_372.0.mid
+3,373.0,374.5,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_3_373.0_374.5.mid
+3,436.0,442.0,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_3_436.0_442.0.mid
+3,440.0,446.0,{'RT'},,False,"{'RT', 'PA-TT'}",Ravel-SQ-1_ann2_midi_3_440.0_446.0.mid
+3,448.0,451.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_3_448.0_451.0.mid
+3,452.0,455.0,set(),,False,"{'PA-TT', 'SR'}",Ravel-SQ-1_ann2_midi_3_452.0_455.0.mid

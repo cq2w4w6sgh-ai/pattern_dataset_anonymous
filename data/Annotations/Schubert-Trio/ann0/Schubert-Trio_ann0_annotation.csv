@@ -1,0 +1,36 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,4.0,6.0,{'REF'},,False,{'REF'},Schubert-Trio_ann0_midi_0_4.0_6.0_REF.mid
+0,20.0,22.0,set(),,False,"{'SP-PT', 'SR'}",Schubert-Trio_ann0_midi_0_20.0_22.0.mid
+0,32.0,34.0,set(),,False,"{'SP-PT', 'SR'}",Schubert-Trio_ann0_midi_0_32.0_34.0.mid
+0,36.0,38.0,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schubert-Trio_ann0_midi_0_36.0_38.0.mid
+0,44.0,46.0,set(),,False,"{'SP-PT', 'SR'}",Schubert-Trio_ann0_midi_0_44.0_46.0.mid
+0,48.0,50.0,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schubert-Trio_ann0_midi_0_48.0_50.0.mid
+0,108.0,110.0,{'PA'},,False,"{'SR', 'PA'}",Schubert-Trio_ann0_midi_0_108.0_110.0.mid
+0,113.0,115.0,set(),,False,"{'SP-PT', 'SR'}",Schubert-Trio_ann0_midi_0_113.0_115.0.mid
+0,129.0,131.0,{'PA'},,False,"{'SR', 'PA'}",Schubert-Trio_ann0_midi_0_129.0_131.0.mid
+0,133.0,135.0,{'PA'},,False,"{'SR', 'PA'}",Schubert-Trio_ann0_midi_0_133.0_135.0.mid
+0,148.5,149.5,{'RT'},,False,"{'SP-PT', 'RT'}",Schubert-Trio_ann0_midi_0_148.5_149.5.mid
+0,150.0,151.0,{'RT'},,False,"{'SP-PT', 'RT'}",Schubert-Trio_ann0_midi_0_150.0_151.0.mid
+0,152.0,155.0,"{'RA', 'I'}",,False,"{'PA-TT', 'RA', 'I'}",Schubert-Trio_ann0_midi_0_152.0_155.0.mid
+0,225.0,677/3,"{'RT', 'PA'}",fixed ann,False,"{'RT', 'PA'}",Schubert-Trio_ann0_midi_0_225.0_225.67.mid
+1,36.0,38.0,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schubert-Trio_ann0_midi_1_36.0_38.0.mid
+1,48.0,50.0,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schubert-Trio_ann0_midi_1_48.0_50.0.mid
+1,113.0,115.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Schubert-Trio_ann0_midi_1_113.0_115.0.mid
+1,133.0,135.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Schubert-Trio_ann0_midi_1_133.0_135.0.mid
+1,152.5,153.5,{'RT'},,False,"{'SP-PT', 'RT'}",Schubert-Trio_ann0_midi_1_152.5_153.5.mid
+1,154.0,155.0,{'RT'},,False,"{'SP-PT', 'RT'}",Schubert-Trio_ann0_midi_1_154.0_155.0.mid
+1,225.0,677/3,{'RT'},fixed ann,False,"{'SP-PT', 'RT'}",Schubert-Trio_ann0_midi_1_225.0_225.67.mid
+2,8.0,10.0,set(),,False,"{'PA-TT', 'SR'}",Schubert-Trio_ann0_midi_2_8.0_10.0.mid
+2,24.0,26.0,set(),,False,"{'PA-TT', 'SR'}",Schubert-Trio_ann0_midi_2_24.0_26.0.mid
+2,36.0,38.0,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schubert-Trio_ann0_midi_2_36.0_38.0.mid
+2,48.0,50.0,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Schubert-Trio_ann0_midi_2_48.0_50.0.mid
+2,113.0,115.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Schubert-Trio_ann0_midi_2_113.0_115.0.mid
+2,133.0,135.0,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Schubert-Trio_ann0_midi_2_133.0_135.0.mid
+2,152.5,153.5,"{'RT', 'PA'}",,False,"{'RT', 'PA'}",Schubert-Trio_ann0_midi_2_152.5_153.5.mid
+2,154.0,155.0,"{'RT', 'PA'}",,False,"{'RT', 'PA'}",Schubert-Trio_ann0_midi_2_154.0_155.0.mid
+2,164.0,167.0,{'RA'},,False,"{'PA-TT', 'RA'}",Schubert-Trio_ann0_midi_2_164.0_167.0.mid
+2,196.0,199.0,{'RA'},,False,"{'PA-TT', 'RA'}",Schubert-Trio_ann0_midi_2_196.0_199.0.mid
+2,268.0,270.0,set(),,False,"{'SP-PT', 'SR'}",Schubert-Trio_ann0_midi_2_268.0_270.0.mid
+2,273.0,275.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Schubert-Trio_ann0_midi_2_273.0_275.0.mid
+2,276.0,278.0,set(),,False,"{'SP-PT', 'SR'}",Schubert-Trio_ann0_midi_2_276.0_278.0.mid
+2,281.0,283.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Schubert-Trio_ann0_midi_2_281.0_283.0.mid

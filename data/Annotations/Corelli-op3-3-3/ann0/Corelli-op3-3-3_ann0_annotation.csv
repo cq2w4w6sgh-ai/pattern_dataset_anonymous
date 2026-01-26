@@ -1,0 +1,28 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.5,1.5,{'REF'},,False,{'REF'},Corelli-op3-3-3_ann0_midi_0_0.5_1.5_REF.mid
+0,2.5,3.5,set(),,False,"{'PA-TT', 'SR'}",Corelli-op3-3-3_ann0_midi_0_2.5_3.5.mid
+0,4.5,5.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_0_4.5_5.5.mid
+0,9.5,10.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_0_9.5_10.5.mid
+0,11.5,12.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_0_11.5_12.5.mid
+0,13.5,14.5,{'NP'},,False,"{'SR', 'NP'}",Corelli-op3-3-3_ann0_midi_0_13.5_14.5.mid
+0,15.5,16.5,{'NP'},,False,"{'SR', 'NP'}",Corelli-op3-3-3_ann0_midi_0_15.5_16.5.mid
+0,39.5,40.5,{'NP'},,False,"{'SR', 'NP'}",Corelli-op3-3-3_ann0_midi_0_39.5_40.5.mid
+0,49.5,50.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_0_49.5_50.5.mid
+0,51.5,52.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_0_51.5_52.5.mid
+0,64.5,65.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_0_64.5_65.5.mid
+0,66.5,67.5,set(),,False,"{'PA-TT', 'SR'}",Corelli-op3-3-3_ann0_midi_0_66.5_67.5.mid
+0,68.5,69.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_0_68.5_69.5.mid
+0,74.5,75.5,{'NP'},,False,"{'SR', 'NP'}",Corelli-op3-3-3_ann0_midi_0_74.5_75.5.mid
+0,76.5,77.5,{'NP'},,False,"{'SR', 'NP'}",Corelli-op3-3-3_ann0_midi_0_76.5_77.5.mid
+1,8.5,9.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_1_8.5_9.5.mid
+1,10.5,11.5,set(),,False,"{'PA-TT', 'SR'}",Corelli-op3-3-3_ann0_midi_1_10.5_11.5.mid
+1,12.5,13.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_1_12.5_13.5.mid
+1,40.5,41.5,{'NP'},,False,"{'SR', 'NP'}",Corelli-op3-3-3_ann0_midi_1_40.5_41.5.mid
+1,48.5,49.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_1_48.5_49.5.mid
+1,50.5,51.5,set(),,False,"{'PA-TT', 'SR'}",Corelli-op3-3-3_ann0_midi_1_50.5_51.5.mid
+1,52.5,53.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_1_52.5_53.5.mid
+1,65.5,66.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_1_65.5_66.5.mid
+1,67.5,68.5,set(),,False,"{'SP-PT', 'SR'}",Corelli-op3-3-3_ann0_midi_1_67.5_68.5.mid
+1,69.5,70.5,{'NP'},,False,"{'SR', 'NP'}",Corelli-op3-3-3_ann0_midi_1_69.5_70.5.mid
+1,73.5,74.5,{'NP'},,False,"{'SR', 'NP'}",Corelli-op3-3-3_ann0_midi_1_73.5_74.5.mid
+1,75.5,76.5,{'NP'},,False,"{'SR', 'NP'}",Corelli-op3-3-3_ann0_midi_1_75.5_76.5.mid

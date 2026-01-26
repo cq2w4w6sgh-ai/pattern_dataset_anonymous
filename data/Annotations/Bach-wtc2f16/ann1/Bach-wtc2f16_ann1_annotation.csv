@@ -1,0 +1,19 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,37.25,48.0,set(),,False,"{'SP-PT', 'SR'}",Bach-wtc2f16_ann1_midi_0_37.25_48.0.mid
+0,82.25,90.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f16_ann1_midi_0_82.25_90.0.mid
+0,175.25,183.0,"{'RA', 'F', 'PA'}",,False,"{'RA', 'F', 'PA'}",Bach-wtc2f16_ann1_midi_0_175.25_183.0.mid
+0,189.25,192.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f16_ann1_midi_0_189.25_192.0.mid
+1,25.25,36.0,{'PA'},,False,"{'SR', 'PA'}",Bach-wtc2f16_ann1_midi_1_25.25_36.0.mid
+1,94.25,102.0,"{'RA', 'F', 'PA'}",,False,"{'RA', 'F', 'PA'}",Bach-wtc2f16_ann1_midi_1_94.25_102.0.mid
+1,175.25,186.0,{'PA'},,False,"{'SR', 'PA'}",Bach-wtc2f16_ann1_midi_1_175.25_186.0.mid
+1,189.25,192.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Bach-wtc2f16_ann1_midi_1_189.25_192.0.mid
+1,199.25,204.5,"{'F', 'PA'}",,False,"{'F', 'PA'}",Bach-wtc2f16_ann1_midi_1_199.25_204.5.mid
+1,205.25,213.0,"{'RA', 'F', 'PA'}",,False,"{'RA', 'F', 'PA'}",Bach-wtc2f16_ann1_midi_1_205.25_213.0.mid
+2,13.25,24.0,{'REF'},,False,{'REF'},Bach-wtc2f16_ann1_midi_2_13.25_24.0_REF.mid
+2,151.25,162.0,{'PA'},,False,"{'SR', 'PA'}",Bach-wtc2f16_ann1_midi_2_151.25_162.0.mid
+2,186.25,189.0,{'F'},,False,{'F'},Bach-wtc2f16_ann1_midi_2_186.25_189.0.mid
+2,192.25,195.0,{'F'},fixed annoation,False,{'F'},Bach-wtc2f16_ann1_midi_2_192.25_195.0.mid
+3,58.25,69.0,{'PA'},,False,"{'SR', 'PA'}",Bach-wtc2f16_ann1_midi_3_58.25_69.0.mid
+3,133.25,144.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Bach-wtc2f16_ann1_midi_3_133.25_144.0.mid
+3,166.25,173.5,"{'F', 'PA'}",,False,"{'F', 'PA'}",Bach-wtc2f16_ann1_midi_3_166.25_173.5.mid
+3,205.25,216.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Bach-wtc2f16_ann1_midi_3_205.25_216.0.mid

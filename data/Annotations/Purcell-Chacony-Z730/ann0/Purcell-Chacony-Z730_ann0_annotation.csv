@@ -1,0 +1,19 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,183.0,204.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Purcell-Chacony-Z730_ann0_midi_0_183.0_204.0.mid
+1,144.0,165.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Purcell-Chacony-Z730_ann0_midi_1_144.0_165.0.mid
+2,120.0,141.0,{'RA'},,False,"{'SP-PT', 'RA'}",Purcell-Chacony-Z730_ann0_midi_2_120.0_141.0.mid
+2,255.0,276.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_2_255.0_276.0.mid
+3,0.0,21.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Purcell-Chacony-Z730_ann0_midi_3_0.0_21.0.mid
+3,24.0,45.0,{'REF'},ground bass,False,{'REF'},Purcell-Chacony-Z730_ann0_midi_3_24.0_45.0_REF.mid
+3,48.0,69.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_3_48.0_69.0.mid
+3,72.0,93.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_3_72.0_93.0.mid
+3,96.0,117.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_3_96.0_117.0.mid
+3,159.0,180.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_3_159.0_180.0.mid
+3,207.0,228.0,"{'?', 'RA', 'PA'}",,True,"{'?', 'RA', 'PA'}",Purcell-Chacony-Z730_ann0_midi_3_207.0_228.0.mid
+3,231.0,252.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_3_231.0_252.0.mid
+3,279.0,300.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_3_279.0_300.0.mid
+3,303.0,324.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Purcell-Chacony-Z730_ann0_midi_3_303.0_324.0.mid
+3,366.0,387.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_3_366.0_387.0.mid
+3,390.0,411.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_3_390.0_411.0.mid
+3,414.0,435.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_3_414.0_435.0.mid
+3,438.0,459.0,set(),,False,"{'SP-PT', 'SR'}",Purcell-Chacony-Z730_ann0_midi_3_438.0_459.0.mid

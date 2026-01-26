@@ -1,0 +1,17 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.5,3.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Prokofiev-VisionFugitives-3_ann0_midi_0_0.5_3.5.mid
+0,4.5,8.0,{'REF'},,False,{'REF'},Prokofiev-VisionFugitives-3_ann0_midi_0_4.5_8.0_REF.mid
+0,8.5,12.0,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Prokofiev-VisionFugitives-3_ann0_midi_0_8.5_12.0.mid
+0,16.5,19.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Prokofiev-VisionFugitives-3_ann0_midi_0_16.5_19.5.mid
+0,20.5,24.0,set(),,False,"{'SP-PT', 'SR'}",Prokofiev-VisionFugitives-3_ann0_midi_0_20.5_24.0.mid
+0,28.5,31.5,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Prokofiev-VisionFugitives-3_ann0_midi_0_28.5_31.5.mid
+0,32.5,35.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Prokofiev-VisionFugitives-3_ann0_midi_0_32.5_35.5.mid
+0,36.5,39.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Prokofiev-VisionFugitives-3_ann0_midi_0_36.5_39.5.mid
+0,48.0,51.0,set(),,False,"{'PA-TT', 'SR'}",Prokofiev-VisionFugitives-3_ann0_midi_0_48.0_51.0.mid
+0,62.0,65.0,set(),,False,"{'PA-TT', 'SR'}",Prokofiev-VisionFugitives-3_ann0_midi_0_62.0_65.0.mid
+0,84.5,87.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Prokofiev-VisionFugitives-3_ann0_midi_0_84.5_87.5.mid
+0,88.5,92.0,set(),,False,"{'SP-PT', 'SR'}",Prokofiev-VisionFugitives-3_ann0_midi_0_88.5_92.0.mid
+0,92.5,96.0,set(),,False,"{'SP-PT', 'SR'}",Prokofiev-VisionFugitives-3_ann0_midi_0_92.5_96.0.mid
+0,96.5,99.5,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Prokofiev-VisionFugitives-3_ann0_midi_0_96.5_99.5.mid
+1,92.0,95.0,set(),,False,"{'SP-PT', 'SR'}",Prokofiev-VisionFugitives-3_ann0_midi_1_92.0_95.0.mid
+1,94.0,97.0,set(),,False,"{'SP-PT', 'SR'}",Prokofiev-VisionFugitives-3_ann0_midi_1_94.0_97.0.mid

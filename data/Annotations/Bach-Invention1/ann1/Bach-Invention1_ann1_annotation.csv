@@ -1,0 +1,12 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,2.0,3.5,{'REF'},,False,{'REF'},Bach-Invention1_ann1_midi_0_2.0_3.5_REF.mid
+0,6.0,7.5,set(),,False,"{'PA-TT', 'SR'}",Bach-Invention1_ann1_midi_0_6.0_7.5.mid
+0,40.0,41.0,{'F'},,False,{'F'},Bach-Invention1_ann1_midi_0_40.0_41.0.mid
+1,8.0,9.0,{'F'},,False,{'F'},Bach-Invention1_ann1_midi_1_8.0_9.0.mid
+1,26.0,27.5,set(),,False,"{'SP-PT', 'SR'}",Bach-Invention1_ann1_midi_1_26.0_27.5.mid
+1,30.0,31.5,set(),,False,"{'PA-TT', 'SR'}",Bach-Invention1_ann1_midi_1_30.0_31.5.mid
+1,34.0,35.5,"{'PR', 'PA'}",,False,"{'PR', 'SR', 'PA'}",Bach-Invention1_ann1_midi_1_34.0_35.5.mid
+1,38.0,39.5,"{'PR', 'PA'}",,False,"{'PR', 'SR', 'PA'}",Bach-Invention1_ann1_midi_1_38.0_39.5.mid
+1,54.0,55.5,{'NP'},,False,"{'SR', 'NP'}",Bach-Invention1_ann1_midi_1_54.0_55.5.mid
+1,72.0,73.0,"{'F', 'I'}",fixed annotation,False,"{'F', 'I'}",Bach-Invention1_ann1_midi_1_72.0_73.0.mid
+1,80.0,81.0,"{'F', 'I'}",fixed annotation,False,"{'F', 'I'}",Bach-Invention1_ann1_midi_1_80.0_81.0.mid

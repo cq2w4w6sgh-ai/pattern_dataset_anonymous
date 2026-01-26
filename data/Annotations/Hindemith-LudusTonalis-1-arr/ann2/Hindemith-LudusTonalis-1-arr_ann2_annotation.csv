@@ -1,0 +1,8 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,80.0,91.5,{'REF'},,False,{'REF'},Hindemith-LudusTonalis-1-arr_ann2_midi_0_80.0_91.5_REF.mid
+0,149.0,159.5,{'RA'},,False,"{'SP-PT', 'RA'}",Hindemith-LudusTonalis-1-arr_ann2_midi_0_149.0_159.5.mid
+0,181.0,191.5,{'RA'},,False,"{'PA-TT', 'RA'}",Hindemith-LudusTonalis-1-arr_ann2_midi_0_181.0_191.5.mid
+1,92.0,103.5,set(),,False,"{'PA-TT', 'SR'}",Hindemith-LudusTonalis-1-arr_ann2_midi_1_92.0_103.5.mid
+1,168.0,179.5,set(),fixed annotation,False,"{'PA-TT', 'SR'}",Hindemith-LudusTonalis-1-arr_ann2_midi_1_168.0_179.5.mid
+2,104.0,115.5,set(),,False,"{'SP-PT', 'SR'}",Hindemith-LudusTonalis-1-arr_ann2_midi_2_104.0_115.5.mid
+2,137.0,147.5,{'RA'},,False,"{'SP-PT', 'RA'}",Hindemith-LudusTonalis-1-arr_ann2_midi_2_137.0_147.5.mid

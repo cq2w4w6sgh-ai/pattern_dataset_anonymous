@@ -1,0 +1,34 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.25,1.75,{'REF'},,False,{'REF'},Bach-Invention11_ann0_midi_0_0.25_1.75_REF.mid
+0,6.0,6.75,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-Invention11_ann0_midi_0_6.0_6.75.mid
+0,7.0,7.75,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-Invention11_ann0_midi_0_7.0_7.75.mid
+0,8.75,10.5,{'RA'},,False,"{'PA-TT', 'RA'}",Bach-Invention11_ann0_midi_0_8.75_10.5.mid
+0,20.25,21.75,set(),,False,"{'PA-TT', 'SR'}",Bach-Invention11_ann0_midi_0_20.25_21.75.mid
+0,41.0,41.75,{'F'},,False,{'F'},Bach-Invention11_ann0_midi_0_41.0_41.75.mid
+0,48.25,49.75,set(),,False,"{'SP-PT', 'SR'}",Bach-Invention11_ann0_midi_0_48.25_49.75.mid
+0,68.25,69.75,{'I'},,False,"{'SP-PT', 'SR', 'I'}",Bach-Invention11_ann0_midi_0_68.25_69.75.mid
+0,70.25,71.75,set(),,False,"{'SP-PT', 'SR'}",Bach-Invention11_ann0_midi_0_70.25_71.75.mid
+0,76.0,76.75,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-Invention11_ann0_midi_0_76.0_76.75.mid
+0,77.0,77.75,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-Invention11_ann0_midi_0_77.0_77.75.mid
+0,78.0,78.75,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-Invention11_ann0_midi_0_78.0_78.75.mid
+0,79.0,79.75,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-Invention11_ann0_midi_0_79.0_79.75.mid
+0,80.75,82.25,set(),,False,"{'PA-TT', 'SR'}",Bach-Invention11_ann0_midi_0_80.75_82.25.mid
+0,84.25,85.75,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-Invention11_ann0_midi_0_84.25_85.75.mid
+0,86.25,87.75,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-Invention11_ann0_midi_0_86.25_87.75.mid
+1,8.25,9.75,set(),,False,"{'SP-PT', 'SR'}",Bach-Invention11_ann0_midi_1_8.25_9.75.mid
+1,16.25,17.75,{'PA'},,False,"{'SR', 'PA'}",Bach-Invention11_ann0_midi_1_16.25_17.75.mid
+1,24.25,25.75,set(),,False,"{'SP-PT', 'SR'}",Bach-Invention11_ann0_midi_1_24.25_25.75.mid
+1,30.0,30.75,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-Invention11_ann0_midi_1_30.0_30.75.mid
+1,31.0,31.75,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-Invention11_ann0_midi_1_31.0_31.75.mid
+1,32.0,32.75,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-Invention11_ann0_midi_1_32.0_32.75.mid
+1,33.0,33.75,"{'F', 'I'}",,False,"{'F', 'I'}",Bach-Invention11_ann0_midi_1_33.0_33.75.mid
+1,34.0,34.75,{'F'},,False,{'F'},Bach-Invention11_ann0_midi_1_34.0_34.75.mid
+1,35.0,35.75,{'F'},,False,{'F'},Bach-Invention11_ann0_midi_1_35.0_35.75.mid
+1,36.0,36.75,"{'PR', 'F', 'I'}",,False,"{'PR', 'F', 'I'}",Bach-Invention11_ann0_midi_1_36.0_36.75.mid
+1,41.25,42.75,set(),,False,"{'PA-TT', 'SR'}",Bach-Invention11_ann0_midi_1_41.25_42.75.mid
+1,45.0,45.75,{'F'},,False,{'F'},Bach-Invention11_ann0_midi_1_45.0_45.75.mid
+1,48.25,49.75,"{'?', 'PA'}",,True,"{'?', 'PA'}",Bach-Invention11_ann0_midi_1_48.25_49.75.mid
+1,56.25,57.75,set(),,False,"{'SP-PT', 'SR'}",Bach-Invention11_ann0_midi_1_56.25_57.75.mid
+1,62.25,63.75,set(),,False,"{'PA-TT', 'SR'}",Bach-Invention11_ann0_midi_1_62.25_63.75.mid
+1,66.25,67.75,set(),,False,"{'PA-TT', 'SR'}",Bach-Invention11_ann0_midi_1_66.25_67.75.mid
+1,82.25,83.75,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Bach-Invention11_ann0_midi_1_82.25_83.75.mid

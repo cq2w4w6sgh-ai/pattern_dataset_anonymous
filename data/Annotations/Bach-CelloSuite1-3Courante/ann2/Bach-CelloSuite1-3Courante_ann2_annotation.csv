@@ -1,0 +1,29 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,12.5,13.25,{'REF'},,False,{'REF'},Bach-CelloSuite1-3Courante_ann2_midi_0_12.5_13.25_REF.mid
+0,13.5,14.25,set(),,False,"{'SP-PT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_13.5_14.25.mid
+0,15.5,16.25,set(),,False,"{'PA-TT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_15.5_16.25.mid
+0,16.5,17.25,set(),,False,"{'PA-TT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_16.5_17.25.mid
+0,30.5,31.25,set(),,False,"{'SP-PT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_30.5_31.25.mid
+0,31.5,32.25,set(),,False,"{'SP-PT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_31.5_32.25.mid
+0,33.5,34.25,set(),,False,"{'PA-TT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_33.5_34.25.mid
+0,34.5,35.25,set(),,False,"{'PA-TT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_34.5_35.25.mid
+0,39.5,40.25,set(),,False,"{'PA-TT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_39.5_40.25.mid
+0,40.5,41.25,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_40.5_41.25.mid
+0,41.5,42.25,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_41.5_42.25.mid
+0,42.5,43.25,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_42.5_43.25.mid
+0,43.5,44.25,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_43.5_44.25.mid
+0,44.5,45.25,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_44.5_45.25.mid
+0,63.5,64.25,{'PA'},,False,"{'SR', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_63.5_64.25.mid
+0,64.5,65.25,{'PA'},,False,"{'SR', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_64.5_65.25.mid
+0,65.5,66.25,set(),,False,"{'SP-PT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_65.5_66.25.mid
+0,96.5,97.25,{'I'},,False,"{'PA-TT', 'SR', 'I'}",Bach-CelloSuite1-3Courante_ann2_midi_0_96.5_97.25.mid
+0,97.5,98.25,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_97.5_98.25.mid
+0,98.5,99.25,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_98.5_99.25.mid
+0,99.5,100.25,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_99.5_100.25.mid
+0,100.5,101.25,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_100.5_101.25.mid
+0,101.5,102.25,"{'I', 'PA'}",,False,"{'SR', 'I', 'PA'}",Bach-CelloSuite1-3Courante_ann2_midi_0_101.5_102.25.mid
+0,105.5,106.25,set(),,False,"{'PA-TT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_105.5_106.25.mid
+0,106.5,107.25,set(),,False,"{'PA-TT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_106.5_107.25.mid
+0,108.5,109.25,set(),,False,"{'SP-PT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_108.5_109.25.mid
+0,109.5,110.25,set(),,False,"{'SP-PT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_109.5_110.25.mid
+0,111.5,112.25,set(),,False,"{'PA-TT', 'SR'}",Bach-CelloSuite1-3Courante_ann2_midi_0_111.5_112.25.mid

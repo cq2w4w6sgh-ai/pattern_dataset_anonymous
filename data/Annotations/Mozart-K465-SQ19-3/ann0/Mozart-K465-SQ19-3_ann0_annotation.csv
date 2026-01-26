@@ -1,0 +1,30 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,6.0,8.0,{'REF'},,False,{'REF'},Mozart-K465-SQ19-3_ann0_midi_0_6.0_8.0_REF.mid
+0,9.0,11.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_0_9.0_11.0.mid
+0,66.0,68.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_0_66.0_68.0.mid
+0,69.0,71.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_0_69.0_71.0.mid
+0,78.0,80.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_0_78.0_80.0.mid
+0,81.0,83.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_0_81.0_83.0.mid
+0,123.0,125.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_0_123.0_125.0.mid
+0,126.0,128.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_0_126.0_128.0.mid
+0,222.0,224.0,{'PA'},added,False,"{'SR', 'PA'}",Mozart-K465-SQ19-3_ann0_midi_0_222.0_224.0.mid
+1,6.0,8.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_1_6.0_8.0.mid
+1,75.0,80.0,{'RA'},,False,"{'SP-PT', 'RA'}",Mozart-K465-SQ19-3_ann0_midi_1_75.0_80.0.mid
+1,81.0,83.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_1_81.0_83.0.mid
+1,123.0,125.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-K465-SQ19-3_ann0_midi_1_123.0_125.0.mid
+1,126.0,128.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_1_126.0_128.0.mid
+1,193.0,194.0,{'RT'},,False,"{'SP-PT', 'RT'}",Mozart-K465-SQ19-3_ann0_midi_1_193.0_194.0.mid
+1,213.5,215.5,{'?'},three Eb but not clear,True,{'?'},Mozart-K465-SQ19-3_ann0_midi_1_213.5_215.5.mid
+2,33.0,35.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-K465-SQ19-3_ann0_midi_2_33.0_35.0.mid
+2,45.0,47.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_2_45.0_47.0.mid
+2,78.0,80.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_2_78.0_80.0.mid
+2,81.0,83.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_2_81.0_83.0.mid
+2,126.0,128.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_2_126.0_128.0.mid
+2,150.0,152.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-K465-SQ19-3_ann0_midi_2_150.0_152.0.mid
+2,162.0,164.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_2_162.0_164.0.mid
+2,222.0,224.0,"{'RA', 'PA'}",added,False,"{'PA', 'RA-Off'}",Mozart-K465-SQ19-3_ann0_midi_2_222.0_224.0.mid
+3,261.0,263.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-K465-SQ19-3_ann0_midi_3_261.0_263.0.mid
+3,264.0,266.0,set(),,False,"{'SP-PT', 'SR'}",Mozart-K465-SQ19-3_ann0_midi_3_264.0_266.0.mid
+3,267.0,269.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-K465-SQ19-3_ann0_midi_3_267.0_269.0.mid
+3,270.0,272.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-K465-SQ19-3_ann0_midi_3_270.0_272.0.mid
+3,273.0,275.0,{'PA'},,False,"{'SR', 'PA'}",Mozart-K465-SQ19-3_ann0_midi_3_273.0_275.0.mid

@@ -1,0 +1,22 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,197.0,200.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann3_midi_0_197.0_200.0.mid
+0,233.0,236.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ne-Irascaris-Domine_ann3_midi_0_233.0_236.0.mid
+0,243.0,248.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann3_midi_0_243.0_248.0.mid
+0,252.0,255.0,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann3_midi_0_252.0_255.0.mid
+0,261.0,264.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann3_midi_0_261.0_264.0.mid
+0,320.0,323.0,"{'RA', 'I'}",fixed annotation,False,"{'SP-PT', 'I', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann3_midi_0_320.0_323.0.mid
+1,193.0,196.0,{'REF'},,False,{'REF'},Byrd-Ne-Irascaris-Domine_ann3_midi_1_193.0_196.0_REF.mid
+1,217.0,220.0,{'PA'},fixed annotation,False,"{'SR', 'PA'}",Byrd-Ne-Irascaris-Domine_ann3_midi_1_217.0_220.0.mid
+1,253.0,256.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann3_midi_1_253.0_256.0.mid
+1,277.0,280.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann3_midi_1_277.0_280.0.mid
+1,522.0,525.0,"{'RA', 'I', 'PA'}",,False,"{'RA', 'I', 'PA'}",Byrd-Ne-Irascaris-Domine_ann3_midi_1_522.0_525.0.mid
+2,243.0,246.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann3_midi_2_243.0_246.0.mid
+2,253.0,256.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann3_midi_2_253.0_256.0.mid
+2,273.0,276.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann3_midi_2_273.0_276.0.mid
+3,193.0,196.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann3_midi_3_193.0_196.0.mid
+3,201.0,204.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Byrd-Ne-Irascaris-Domine_ann3_midi_3_201.0_204.0.mid
+3,235.0,238.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ne-Irascaris-Domine_ann3_midi_3_235.0_238.0.mid
+3,252.0,255.0,"{'RA', 'I'}",,False,"{'PA-TT', 'I', 'RA-Off'}",Byrd-Ne-Irascaris-Domine_ann3_midi_3_252.0_255.0.mid
+4,213.0,216.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann3_midi_4_213.0_216.0.mid
+4,239.0,242.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Byrd-Ne-Irascaris-Domine_ann3_midi_4_239.0_242.0.mid
+4,257.0,260.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ne-Irascaris-Domine_ann3_midi_4_257.0_260.0.mid

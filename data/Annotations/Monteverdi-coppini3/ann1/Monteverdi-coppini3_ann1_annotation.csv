@@ -1,0 +1,6 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,46.0,56.0,{'RA'},,False,"{'SP-PT', 'RA-Off'}",Monteverdi-coppini3_ann1_midi_0_46.0_56.0.mid
+1,42.0,50.0,{'REF'},,False,{'REF'},Monteverdi-coppini3_ann1_midi_1_42.0_50.0_REF.mid
+1,51.0,60.0,{'RA'},,False,"{'SP-PT', 'RA'}",Monteverdi-coppini3_ann1_midi_1_51.0_60.0.mid
+1,103.0,108.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Monteverdi-coppini3_ann1_midi_1_103.0_108.0.mid
+3,57.0,62.0,"{'RA', 'F', 'PA'}",,False,"{'RA', 'F', 'PA'}",Monteverdi-coppini3_ann1_midi_3_57.0_62.0.mid

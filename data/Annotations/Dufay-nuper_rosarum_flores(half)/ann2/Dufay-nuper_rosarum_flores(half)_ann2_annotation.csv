@@ -1,0 +1,9 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+2,168.0,222.0,{'NR'},,False,"{'SP-PT', 'NR'}",Dufay-nuper_rosarum_flores(half)_ann2_midi_2_168.0_222.0.mid
+2,560.0,636.0,{'NR'},,False,"{'SP-PT', 'NR'}",Dufay-nuper_rosarum_flores(half)_ann2_midi_2_560.0_636.0.mid
+2,896.0,932.0,{'NR'},,False,"{'SP-PT', 'NR'}",Dufay-nuper_rosarum_flores(half)_ann2_midi_2_896.0_932.0.mid
+2,1176.0,1230.0,{'NR'},,False,"{'SP-PT', 'NR'}",Dufay-nuper_rosarum_flores(half)_ann2_midi_2_1176.0_1230.0.mid
+3,174.0,210.0,{'REF'},"frag1, T2",False,{'REF'},Dufay-nuper_rosarum_flores(half)_ann2_midi_3_174.0_210.0_REF.mid
+3,568.0,620.0,{'RT'},,False,"{'SP-PT', 'RT'}",Dufay-nuper_rosarum_flores(half)_ann2_midi_3_568.0_620.0.mid
+3,900.0,924.0,{'RT'},,False,"{'SP-PT', 'RT'}",Dufay-nuper_rosarum_flores(half)_ann2_midi_3_900.0_924.0.mid
+3,1182.0,1218.0,set(),,False,"{'SP-PT', 'SR'}",Dufay-nuper_rosarum_flores(half)_ann2_midi_3_1182.0_1218.0.mid

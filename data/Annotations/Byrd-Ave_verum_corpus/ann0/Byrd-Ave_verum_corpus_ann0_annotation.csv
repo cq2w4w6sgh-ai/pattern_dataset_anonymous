@@ -1,0 +1,33 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,4.0,10.0,{'NR'},,False,"{'PA-TT', 'NR'}",Byrd-Ave_verum_corpus_ann0_midi_0_4.0_10.0.mid
+0,117.0,123.0,{'NR'},fixed,False,"{'PA-TT', 'NR'}",Byrd-Ave_verum_corpus_ann0_midi_0_117.0_123.0.mid
+0,123.0,129.0,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Byrd-Ave_verum_corpus_ann0_midi_0_123.0_129.0.mid
+0,146.0,149.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_0_146.0_149.0.mid
+0,156.0,159.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_0_156.0_159.0.mid
+0,206.0,209.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_0_206.0_209.0.mid
+0,216.0,219.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_0_216.0_219.0.mid
+1,125.0,129.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_1_125.0_129.0.mid
+1,133.0,137.5,"{'NR', 'PA'}",,False,"{'NR', 'PA'}",Byrd-Ave_verum_corpus_ann0_midi_1_133.0_137.5.mid
+1,140.0,143.0,{'REF'},,False,{'REF'},Byrd-Ave_verum_corpus_ann0_midi_1_140.0_143.0_REF.mid
+1,148.0,151.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ave_verum_corpus_ann0_midi_1_148.0_151.0.mid
+1,152.0,155.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_1_152.0_155.0.mid
+1,200.0,203.0,set(),,False,"{'SP-PT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_1_200.0_203.0.mid
+1,208.0,211.0,{'PA'},,False,"{'SR', 'PA'}",Byrd-Ave_verum_corpus_ann0_midi_1_208.0_211.0.mid
+1,212.0,215.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_1_212.0_215.0.mid
+1,218.0,221.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",Byrd-Ave_verum_corpus_ann0_midi_1_218.0_221.0.mid
+2,45.0,51.0,{'NR'},,False,"{'PA-TT', 'NR'}",Byrd-Ave_verum_corpus_ann0_midi_2_45.0_51.0.mid
+2,129.0,132.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Byrd-Ave_verum_corpus_ann0_midi_2_129.0_132.0.mid
+2,140.0,143.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_2_140.0_143.0.mid
+2,150.0,154.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Byrd-Ave_verum_corpus_ann0_midi_2_150.0_154.0.mid
+2,189.0,192.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Byrd-Ave_verum_corpus_ann0_midi_2_189.0_192.0.mid
+2,193.0,197.0,{'NR'},,False,"{'PA-TT', 'NR'}",Byrd-Ave_verum_corpus_ann0_midi_2_193.0_197.0.mid
+2,200.0,203.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_2_200.0_203.0.mid
+2,210.0,214.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Byrd-Ave_verum_corpus_ann0_midi_2_210.0_214.0.mid
+2,222.0,225.0,{'RA'},,False,"{'PA-TT', 'RA-Off'}",Byrd-Ave_verum_corpus_ann0_midi_2_222.0_225.0.mid
+3,4.0,10.0,{'NR'},,False,"{'PA-TT', 'NR'}",Byrd-Ave_verum_corpus_ann0_midi_3_4.0_10.0.mid
+3,123.0,128.0,{'NR'},,False,"{'PA-TT', 'NR'}",Byrd-Ave_verum_corpus_ann0_midi_3_123.0_128.0.mid
+3,144.0,147.5,{'RA'},,False,"{'PA-TT', 'RA'}",Byrd-Ave_verum_corpus_ann0_midi_3_144.0_147.5.mid
+3,152.0,155.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Byrd-Ave_verum_corpus_ann0_midi_3_152.0_155.0.mid
+3,159.0,162.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_3_159.0_162.0.mid
+3,212.0,215.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Byrd-Ave_verum_corpus_ann0_midi_3_212.0_215.0.mid
+3,219.0,222.0,set(),,False,"{'PA-TT', 'SR'}",Byrd-Ave_verum_corpus_ann0_midi_3_219.0_222.0.mid

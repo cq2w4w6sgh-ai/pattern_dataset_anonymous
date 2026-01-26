@@ -1,0 +1,55 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,3.0,4.0,{'REF'},,False,{'REF'},haydn-op77n1-03_ann1_midi_0_3.0_4.0_REF.mid
+0,6.0,7.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_6.0_7.0.mid
+0,15.0,16.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_15.0_16.0.mid
+0,21.0,22.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_21.0_22.0.mid
+0,24.0,25.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_24.0_25.0.mid
+0,27.0,28.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_27.0_28.0.mid
+0,30.0,31.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_30.0_31.0.mid
+0,33.0,34.0,set(),,False,"{'SP-PT', 'SR'}",haydn-op77n1-03_ann1_midi_0_33.0_34.0.mid
+0,39.0,40.0,set(),,False,"{'SP-PT', 'SR'}",haydn-op77n1-03_ann1_midi_0_39.0_40.0.mid
+0,42.0,43.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_42.0_43.0.mid
+0,45.0,46.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_0_45.0_46.0.mid
+0,51.0,52.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_51.0_52.0.mid
+0,57.0,58.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_57.0_58.0.mid
+0,60.0,61.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_60.0_61.0.mid
+0,63.0,64.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_63.0_64.0.mid
+0,66.0,67.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_66.0_67.0.mid
+0,69.0,70.0,set(),,False,"{'SP-PT', 'SR'}",haydn-op77n1-03_ann1_midi_0_69.0_70.0.mid
+0,75.0,76.0,set(),,False,"{'SP-PT', 'SR'}",haydn-op77n1-03_ann1_midi_0_75.0_76.0.mid
+0,78.0,79.0,set(),,False,"{'SP-PT', 'SR'}",haydn-op77n1-03_ann1_midi_0_78.0_79.0.mid
+0,81.0,82.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_81.0_82.0.mid
+0,99.0,100.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_99.0_100.0.mid
+0,105.0,106.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_105.0_106.0.mid
+0,165.0,166.0,set(),,False,"{'SP-PT', 'SR'}",haydn-op77n1-03_ann1_midi_0_165.0_166.0.mid
+0,168.0,169.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_168.0_169.0.mid
+0,177.0,178.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_177.0_178.0.mid
+0,183.0,184.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_183.0_184.0.mid
+0,195.0,196.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_195.0_196.0.mid
+0,198.0,199.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_0_198.0_199.0.mid
+0,198.0,201.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_0_198.0_201.0.mid
+0,202.0,204.0,set(),,False,"{'SP-PT', 'SR'}",haydn-op77n1-03_ann1_midi_0_202.0_204.0.mid
+0,205.0,207.0,set(),,False,"{'SP-PT', 'SR'}",haydn-op77n1-03_ann1_midi_0_205.0_207.0.mid
+0,208.0,210.0,set(),,False,"{'SP-PT', 'SR'}",haydn-op77n1-03_ann1_midi_0_208.0_210.0.mid
+0,219.0,220.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_219.0_220.0.mid
+0,222.0,223.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_222.0_223.0.mid
+0,225.0,226.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_225.0_226.0.mid
+0,228.0,229.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_0_228.0_229.0.mid
+0,231.0,232.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_0_231.0_232.0.mid
+0,234.0,235.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_0_234.0_235.0.mid
+0,234.0,235.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_0_234.0_235.0.mid
+0,237.0,238.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_0_237.0_238.0.mid
+1,69.0,70.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_1_69.0_70.0.mid
+1,105.0,106.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_1_105.0_106.0.mid
+1,231.0,232.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_1_231.0_232.0.mid
+1,234.0,235.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_1_234.0_235.0.mid
+2,69.0,70.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_2_69.0_70.0.mid
+2,228.0,229.0,{'PA'},,False,"{'SR', 'PA'}",haydn-op77n1-03_ann1_midi_2_228.0_229.0.mid
+2,231.0,232.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_2_231.0_232.0.mid
+2,234.0,235.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_2_234.0_235.0.mid
+3,72.0,74.0,{'RA'},,False,"{'PA-TT', 'RA'}",haydn-op77n1-03_ann1_midi_3_72.0_74.0.mid
+3,75.0,77.0,{'RA'},,False,"{'PA-TT', 'RA'}",haydn-op77n1-03_ann1_midi_3_75.0_77.0.mid
+3,78.0,80.0,{'RA'},,False,"{'PA-TT', 'RA'}",haydn-op77n1-03_ann1_midi_3_78.0_80.0.mid
+3,81.0,82.0,set(),,False,"{'SP-PT', 'SR'}",haydn-op77n1-03_ann1_midi_3_81.0_82.0.mid
+3,231.0,232.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_3_231.0_232.0.mid
+3,234.0,235.0,"{'RA', 'PA'}",,False,"{'PA', 'RA-Off'}",haydn-op77n1-03_ann1_midi_3_234.0_235.0.mid

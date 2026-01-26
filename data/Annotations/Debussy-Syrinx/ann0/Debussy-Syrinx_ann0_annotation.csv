@@ -1,0 +1,24 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.0,0.875,{'REF'},,False,{'REF'},Debussy-Syrinx_ann0_midi_0_0.0_0.88_REF.mid
+0,1.0,1.875,set(),,False,"{'SP-PT', 'SR'}",Debussy-Syrinx_ann0_midi_0_1.0_1.88.mid
+0,3.0,3.875,{'PA'},,False,"{'SR', 'PA'}",Debussy-Syrinx_ann0_midi_0_3.0_3.88.mid
+0,6.0,6.875,set(),,False,"{'SP-PT', 'SR'}",Debussy-Syrinx_ann0_midi_0_6.0_6.88.mid
+0,7.0,7.875,set(),,False,"{'SP-PT', 'SR'}",Debussy-Syrinx_ann0_midi_0_7.0_7.88.mid
+0,9.0,9.875,{'PA'},,False,"{'SR', 'PA'}",Debussy-Syrinx_ann0_midi_0_9.0_9.88.mid
+0,10.0,65/6,"{'RA', 'PA'}",added annotation,False,"{'RA', 'PA'}",Debussy-Syrinx_ann0_midi_0_10.0_10.83.mid
+0,12.0,12.875,{'PA'},,False,"{'SR', 'PA'}",Debussy-Syrinx_ann0_midi_0_12.0_12.88.mid
+0,24.0,24.875,set(),,False,"{'SP-PT', 'SR'}",Debussy-Syrinx_ann0_midi_0_24.0_24.88.mid
+0,25.0,25.875,set(),,False,"{'SP-PT', 'SR'}",Debussy-Syrinx_ann0_midi_0_25.0_25.88.mid
+0,27.0,27.875,set(),,False,"{'SP-PT', 'SR'}",Debussy-Syrinx_ann0_midi_0_27.0_27.88.mid
+0,28.0,28.875,set(),,False,"{'SP-PT', 'SR'}",Debussy-Syrinx_ann0_midi_0_28.0_28.88.mid
+0,36.0,36.875,"{'RA', 'PA'}",added annotations,False,"{'RA', 'PA'}",Debussy-Syrinx_ann0_midi_0_36.0_36.88.mid
+0,37.0,37.875,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Debussy-Syrinx_ann0_midi_0_37.0_37.88.mid
+0,38.0,38.875,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Debussy-Syrinx_ann0_midi_0_38.0_38.88.mid
+0,74.0,75.875,{'RA'},,False,"{'SP-PT', 'RA'}",Debussy-Syrinx_ann0_midi_0_74.0_75.88.mid
+0,76.0,76.875,set(),,False,"{'SP-PT', 'SR'}",Debussy-Syrinx_ann0_midi_0_76.0_76.88.mid
+0,80.0,81.875,{'RA'},,False,"{'SP-PT', 'RA'}",Debussy-Syrinx_ann0_midi_0_80.0_81.88.mid
+0,82.0,82.875,set(),,False,"{'SP-PT', 'SR'}",Debussy-Syrinx_ann0_midi_0_82.0_82.88.mid
+0,84.0,253/3,"{'RT', 'RA'}",,False,"{'SP-PT', 'RA', 'RT'}",Debussy-Syrinx_ann0_midi_0_84.0_84.33.mid
+0,84.5,509/6,"{'RT', 'RA'}",,False,"{'SP-PT', 'RA', 'RT'}",Debussy-Syrinx_ann0_midi_0_84.5_84.83.mid
+0,86.0,259/3,"{'RT', 'RA'}",,False,"{'SP-PT', 'RA', 'RT'}",Debussy-Syrinx_ann0_midi_0_86.0_86.33.mid
+0,86.5,521/6,"{'RT', 'RA'}",,False,"{'SP-PT', 'RA', 'RT'}",Debussy-Syrinx_ann0_midi_0_86.5_86.83.mid

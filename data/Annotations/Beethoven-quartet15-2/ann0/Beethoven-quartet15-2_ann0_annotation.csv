@@ -1,0 +1,67 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,0.0,5.0,{'REF'},,False,{'REF'},Beethoven-quartet15-2_ann0_midi_0_0.0_5.0_REF.mid
+0,6.0,11.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_0_6.0_11.0.mid
+0,69.0,74.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_0_69.0_74.0.mid
+0,75.0,80.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_0_75.0_80.0.mid
+0,96.0,101.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_0_96.0_101.0.mid
+0,188.0,190.0,"{'PR', 'F', 'I'}",added notation,False,"{'PR', 'F', 'I'}",Beethoven-quartet15-2_ann0_midi_0_188.0_190.0.mid
+0,300.0,305.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_0_300.0_305.0.mid
+0,306.0,311.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_0_306.0_311.0.mid
+1,0.0,5.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_1_0.0_5.0.mid
+1,6.0,11.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_1_6.0_11.0.mid
+1,12.0,17.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_1_12.0_17.0.mid
+1,24.0,29.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet15-2_ann0_midi_1_24.0_29.0.mid
+1,30.0,32.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_1_30.0_32.0.mid
+1,48.0,50.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_1_48.0_50.0.mid
+1,51.0,56.0,{'NP'},arguable relation to the REF,False,"{'SR', 'NP'}",Beethoven-quartet15-2_ann0_midi_1_51.0_56.0.mid
+1,70.0,74.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_1_70.0_74.0.mid
+1,75.0,80.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_1_75.0_80.0.mid
+1,96.0,101.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_1_96.0_101.0.mid
+1,179.0,181.0,"{'PR', 'F', 'I'}",added annotation,False,"{'PR', 'F', 'I'}",Beethoven-quartet15-2_ann0_midi_1_179.0_181.0.mid
+1,264.0,266.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_1_264.0_266.0.mid
+1,267.5,272.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Beethoven-quartet15-2_ann0_midi_1_267.5_272.0.mid
+1,300.0,305.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_1_300.0_305.0.mid
+1,306.0,311.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_1_306.0_311.0.mid
+2,0.0,5.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_2_0.0_5.0.mid
+2,6.0,11.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet15-2_ann0_midi_2_6.0_11.0.mid
+2,30.0,35.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_2_30.0_35.0.mid
+2,42.0,44.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_2_42.0_44.0.mid
+2,45.0,50.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_2_45.0_50.0.mid
+2,51.0,56.0,{'NP'},arguable relation to the REF,False,"{'SR', 'NP'}",Beethoven-quartet15-2_ann0_midi_2_51.0_56.0.mid
+2,57.0,62.0,{'NP'},arguable relation to the REF,False,"{'SR', 'NP'}",Beethoven-quartet15-2_ann0_midi_2_57.0_62.0.mid
+2,69.0,74.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_2_69.0_74.0.mid
+2,75.0,80.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_2_75.0_80.0.mid
+2,81.0,83.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_2_81.0_83.0.mid
+2,108.0,110.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_2_108.0_110.0.mid
+2,156.0,158.0,{'F'},from vc,False,{'F'},Beethoven-quartet15-2_ann0_midi_2_156.0_158.0.mid
+2,177.0,182.0,"{'?', 'PA'}",,True,"{'?', 'PA'}",Beethoven-quartet15-2_ann0_midi_2_177.0_182.0.mid
+2,183.0,185.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_2_183.0_185.0.mid
+2,273.0,278.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_2_273.0_278.0.mid
+2,279.0,284.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_2_279.0_284.0.mid
+2,300.0,305.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_2_300.0_305.0.mid
+2,306.0,311.0,{'PA'},added annotation,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_2_306.0_311.0.mid
+3,0.0,5.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_3_0.0_5.0.mid
+3,6.0,11.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_3_6.0_11.0.mid
+3,18.0,23.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet15-2_ann0_midi_3_18.0_23.0.mid
+3,33.0,35.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_3_33.0_35.0.mid
+3,36.0,41.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_3_36.0_41.0.mid
+3,69.0,74.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_3_69.0_74.0.mid
+3,81.0,83.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_3_81.0_83.0.mid
+3,102.0,107.5,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Beethoven-quartet15-2_ann0_midi_3_102.0_107.5.mid
+3,108.0,110.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_3_108.0_110.0.mid
+3,153.0,155.0,{'F'},to vla,False,{'F'},Beethoven-quartet15-2_ann0_midi_3_153.0_155.0.mid
+3,159.0,161.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_3_159.0_161.0.mid
+3,168.0,172.0,"{'?', 'RA', 'F'}",,True,"{'?', 'RA', 'F'}",Beethoven-quartet15-2_ann0_midi_3_168.0_172.0.mid
+3,176.0,178.0,"{'PR', 'F', 'I'}",,False,"{'PR', 'F', 'I'}",Beethoven-quartet15-2_ann0_midi_3_176.0_178.0.mid
+3,182.0,184.0,"{'PR', 'F', 'I'}",,False,"{'PR', 'F', 'I'}",Beethoven-quartet15-2_ann0_midi_3_182.0_184.0.mid
+3,185.0,187.0,"{'PR', 'F', 'I'}",added annotation,False,"{'PR', 'F', 'I'}",Beethoven-quartet15-2_ann0_midi_3_185.0_187.0.mid
+3,213.0,218.0,set(),,False,"{'SP-PT', 'SR'}",Beethoven-quartet15-2_ann0_midi_3_213.0_218.0.mid
+3,219.0,224.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet15-2_ann0_midi_3_219.0_224.0.mid
+3,237.0,242.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet15-2_ann0_midi_3_237.0_242.0.mid
+3,243.0,248.0,{'PA'},fixed annotation,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_3_243.0_248.0.mid
+3,264.0,266.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_3_264.0_266.0.mid
+3,270.0,272.0,{'F'},,False,{'F'},Beethoven-quartet15-2_ann0_midi_3_270.0_272.0.mid
+3,273.0,278.0,set(),,False,"{'PA-TT', 'SR'}",Beethoven-quartet15-2_ann0_midi_3_273.0_278.0.mid
+3,279.0,284.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_3_279.0_284.0.mid
+3,300.0,305.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_3_300.0_305.0.mid
+3,306.0,311.0,{'PA'},,False,"{'SR', 'PA'}",Beethoven-quartet15-2_ann0_midi_3_306.0_311.0.mid

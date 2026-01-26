@@ -1,0 +1,14 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,41.5,48.0,{'REF'},,False,{'REF'},Hindemith-LudusTonalis-1-arr_ann1_midi_0_41.5_48.0_REF.mid
+0,117.5,122.0,{'F'},,False,{'F'},Hindemith-LudusTonalis-1-arr_ann1_midi_0_117.5_122.0.mid
+0,137.5,144.0,set(),,False,"{'SP-PT', 'SR'}",Hindemith-LudusTonalis-1-arr_ann1_midi_0_137.5_144.0.mid
+0,161.5,166.0,"{'F', 'NP'}",,False,"{'F', 'NP'}",Hindemith-LudusTonalis-1-arr_ann1_midi_0_161.5_166.0.mid
+1,49.5,56.0,set(),,False,"{'SP-PT', 'SR'}",Hindemith-LudusTonalis-1-arr_ann1_midi_1_49.5_56.0.mid
+1,123.5,128.0,{'F'},,False,{'F'},Hindemith-LudusTonalis-1-arr_ann1_midi_1_123.5_128.0.mid
+1,149.5,156.0,set(),,False,"{'SP-PT', 'SR'}",Hindemith-LudusTonalis-1-arr_ann1_midi_1_149.5_156.0.mid
+1,181.5,188.0,{'PA'},,False,"{'SR', 'PA'}",Hindemith-LudusTonalis-1-arr_ann1_midi_1_181.5_188.0.mid
+2,61.5,68.0,set(),,False,"{'SP-PT', 'SR'}",Hindemith-LudusTonalis-1-arr_ann1_midi_2_61.5_68.0.mid
+2,81.5,88.0,set(),,False,"{'SP-PT', 'SR'}",Hindemith-LudusTonalis-1-arr_ann1_midi_2_81.5_88.0.mid
+2,129.5,136.0,{'PA'},,False,"{'SR', 'PA'}",Hindemith-LudusTonalis-1-arr_ann1_midi_2_129.5_136.0.mid
+2,161.5,168.0,{'NP'},,False,"{'SR', 'NP'}",Hindemith-LudusTonalis-1-arr_ann1_midi_2_161.5_168.0.mid
+2,169.5,176.0,set(),,False,"{'SP-PT', 'SR'}",Hindemith-LudusTonalis-1-arr_ann1_midi_2_169.5_176.0.mid

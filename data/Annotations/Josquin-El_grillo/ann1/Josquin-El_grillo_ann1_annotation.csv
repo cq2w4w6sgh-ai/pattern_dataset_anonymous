@@ -1,0 +1,179 @@
+staff,start,end,raw_labels,comment,is_ambiguous,labels,file_name
+0,11.0,13.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_0_11.0_13.5.mid
+0,16.0,19.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Josquin-El_grillo_ann1_midi_0_16.0_19.0.mid
+0,20.0,23.0,{'REF'},,False,{'REF'},Josquin-El_grillo_ann1_midi_0_20.0_23.0_REF.mid
+0,40.0,41.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_40.0_41.0.mid
+0,44.0,45.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_44.0_45.0.mid
+0,48.0,49.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_48.0_49.0.mid
+0,52.0,53.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_52.0_53.0.mid
+0,56.0,57.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_0_56.0_57.5.mid
+0,58.0,59.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_0_58.0_59.5.mid
+0,60.0,61.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_0_60.0_61.5.mid
+0,62.0,63.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_62.0_63.0.mid
+0,75.0,77.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_0_75.0_77.5.mid
+0,78.0,79.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_78.0_79.0.mid
+0,80.0,82.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_0_80.0_82.0.mid
+0,84.0,88.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_0_84.0_88.0.mid
+0,90.0,91.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_90.0_91.0.mid
+0,92.0,93.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_92.0_93.0.mid
+0,94.0,96.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_0_94.0_96.0.mid
+0,98.0,102.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_0_98.0_102.0.mid
+0,103.0,104.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_103.0_104.0.mid
+0,106.0,108.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_0_106.0_108.0.mid
+0,110.0,114.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_0_110.0_114.0.mid
+0,116.0,117.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_116.0_117.0.mid
+0,118.0,119.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_118.0_119.0.mid
+0,120.0,122.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_0_120.0_122.0.mid
+0,124.0,128.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_0_124.0_128.0.mid
+0,129.0,130.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_129.0_130.0.mid
+0,132.0,138.0,"{'RT', 'PA'}",fixed,False,"{'RT', 'PA'}",Josquin-El_grillo_ann1_midi_0_132.0_138.0.mid
+0,148.0,149.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_148.0_149.0.mid
+0,156.0,157.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_156.0_157.0.mid
+0,187.0,189.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_0_187.0_189.5.mid
+0,190.0,191.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_190.0_191.0.mid
+0,192.0,195.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Josquin-El_grillo_ann1_midi_0_192.0_195.0.mid
+0,196.0,199.0,set(),,False,"{'SP-PT', 'SR'}",Josquin-El_grillo_ann1_midi_0_196.0_199.0.mid
+0,216.0,217.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_216.0_217.0.mid
+0,220.0,221.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_220.0_221.0.mid
+0,224.0,225.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_224.0_225.0.mid
+0,228.0,229.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_228.0_229.0.mid
+0,232.0,233.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_0_232.0_233.5.mid
+0,234.0,235.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_0_234.0_235.5.mid
+0,236.0,237.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_0_236.0_237.5.mid
+0,238.0,239.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_238.0_239.0.mid
+0,251.0,253.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_0_251.0_253.5.mid
+0,254.0,255.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_0_254.0_255.0.mid
+0,256.0,258.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_0_256.0_258.0.mid
+1,11.0,13.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_1_11.0_13.5.mid
+1,16.0,19.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Josquin-El_grillo_ann1_midi_1_16.0_19.0.mid
+1,20.0,23.0,set(),,False,"{'SP-PT', 'SR'}",Josquin-El_grillo_ann1_midi_1_20.0_23.0.mid
+1,40.0,41.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_40.0_41.0.mid
+1,44.0,45.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_44.0_45.0.mid
+1,48.0,49.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_48.0_49.0.mid
+1,52.0,53.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_52.0_53.0.mid
+1,56.0,57.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_1_56.0_57.5.mid
+1,58.0,59.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_1_58.0_59.5.mid
+1,60.0,61.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_1_60.0_61.5.mid
+1,62.0,63.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_62.0_63.0.mid
+1,75.0,77.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_1_75.0_77.5.mid
+1,78.0,79.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_78.0_79.0.mid
+1,80.0,82.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_1_80.0_82.0.mid
+1,84.0,88.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_1_84.0_88.0.mid
+1,90.0,91.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_90.0_91.0.mid
+1,92.0,93.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_92.0_93.0.mid
+1,94.0,96.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_1_94.0_96.0.mid
+1,98.0,102.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_1_98.0_102.0.mid
+1,103.0,105.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_103.0_105.0.mid
+1,106.0,108.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_1_106.0_108.0.mid
+1,110.0,114.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_1_110.0_114.0.mid
+1,116.0,117.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_116.0_117.0.mid
+1,118.0,119.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_118.0_119.0.mid
+1,120.0,122.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_1_120.0_122.0.mid
+1,124.0,128.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_1_124.0_128.0.mid
+1,129.0,131.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_129.0_131.0.mid
+1,132.0,138.0,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_1_132.0_138.0.mid
+1,148.0,149.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_148.0_149.0.mid
+1,156.0,157.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_156.0_157.0.mid
+1,180.0,182.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_1_180.0_182.0.mid
+1,187.0,189.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_1_187.0_189.5.mid
+1,190.0,191.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_190.0_191.0.mid
+1,192.0,195.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Josquin-El_grillo_ann1_midi_1_192.0_195.0.mid
+1,196.0,199.0,set(),,False,"{'SP-PT', 'SR'}",Josquin-El_grillo_ann1_midi_1_196.0_199.0.mid
+1,216.0,217.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_216.0_217.0.mid
+1,220.0,221.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_220.0_221.0.mid
+1,224.0,225.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_224.0_225.0.mid
+1,228.0,229.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_228.0_229.0.mid
+1,232.0,233.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_1_232.0_233.5.mid
+1,234.0,235.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_1_234.0_235.5.mid
+1,236.0,237.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_1_236.0_237.5.mid
+1,238.0,239.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_1_238.0_239.0.mid
+1,251.0,253.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_1_251.0_253.5.mid
+1,254.0,258.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_1_254.0_258.0.mid
+2,11.0,13.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_2_11.0_13.5.mid
+2,16.0,19.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Josquin-El_grillo_ann1_midi_2_16.0_19.0.mid
+2,20.0,23.0,{'PA'},,False,"{'SR', 'PA'}",Josquin-El_grillo_ann1_midi_2_20.0_23.0.mid
+2,42.0,43.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_42.0_43.0.mid
+2,46.0,47.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_46.0_47.0.mid
+2,50.0,51.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_50.0_51.0.mid
+2,54.0,55.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_54.0_55.0.mid
+2,56.0,57.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_2_56.0_57.5.mid
+2,58.0,59.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_2_58.0_59.5.mid
+2,60.0,61.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_2_60.0_61.5.mid
+2,62.0,63.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_62.0_63.0.mid
+2,75.0,77.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_2_75.0_77.5.mid
+2,78.0,79.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_78.0_79.0.mid
+2,80.0,82.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_2_80.0_82.0.mid
+2,84.0,88.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Josquin-El_grillo_ann1_midi_2_84.0_88.0.mid
+2,92.0,93.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_92.0_93.0.mid
+2,94.0,96.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_2_94.0_96.0.mid
+2,98.0,102.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_2_98.0_102.0.mid
+2,104.0,105.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_104.0_105.0.mid
+2,106.0,108.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_2_106.0_108.0.mid
+2,110.0,114.0,"{'RA', 'PA'}",,False,"{'RA', 'PA'}",Josquin-El_grillo_ann1_midi_2_110.0_114.0.mid
+2,118.0,119.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_118.0_119.0.mid
+2,120.0,122.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_2_120.0_122.0.mid
+2,124.0,128.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_2_124.0_128.0.mid
+2,130.0,131.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_130.0_131.0.mid
+2,132.0,138.0,"{'RT', 'PA'}",fixed,False,"{'RT', 'PA'}",Josquin-El_grillo_ann1_midi_2_132.0_138.0.mid
+2,145.0,149.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_2_145.0_149.0.mid
+2,152.0,157.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_2_152.0_157.0.mid
+2,159.0,164.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_2_159.0_164.0.mid
+2,187.0,189.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_2_187.0_189.5.mid
+2,190.0,191.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_190.0_191.0.mid
+2,192.0,195.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Josquin-El_grillo_ann1_midi_2_192.0_195.0.mid
+2,196.0,199.0,{'PA'},,False,"{'SR', 'PA'}",Josquin-El_grillo_ann1_midi_2_196.0_199.0.mid
+2,218.0,219.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_218.0_219.0.mid
+2,222.0,223.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_222.0_223.0.mid
+2,226.0,227.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_226.0_227.0.mid
+2,230.0,231.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_230.0_231.0.mid
+2,232.0,233.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_2_232.0_233.5.mid
+2,234.0,235.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_2_234.0_235.5.mid
+2,236.0,237.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_2_236.0_237.5.mid
+2,238.0,239.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_238.0_239.0.mid
+2,251.0,253.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_2_251.0_253.5.mid
+2,254.0,255.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_2_254.0_255.0.mid
+2,256.0,258.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_2_256.0_258.0.mid
+3,11.0,13.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_3_11.0_13.5.mid
+3,16.0,19.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Josquin-El_grillo_ann1_midi_3_16.0_19.0.mid
+3,20.0,23.0,set(),,False,"{'SP-PT', 'SR'}",Josquin-El_grillo_ann1_midi_3_20.0_23.0.mid
+3,42.0,43.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_42.0_43.0.mid
+3,46.0,47.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_46.0_47.0.mid
+3,50.0,51.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_50.0_51.0.mid
+3,54.0,55.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_54.0_55.0.mid
+3,56.0,57.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_3_56.0_57.5.mid
+3,58.0,59.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_3_58.0_59.5.mid
+3,60.0,61.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_3_60.0_61.5.mid
+3,62.0,63.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_62.0_63.0.mid
+3,75.0,77.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_3_75.0_77.5.mid
+3,78.0,79.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_78.0_79.0.mid
+3,80.0,82.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_3_80.0_82.0.mid
+3,84.0,88.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_3_84.0_88.0.mid
+3,92.0,93.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_92.0_93.0.mid
+3,94.0,96.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_3_94.0_96.0.mid
+3,98.0,100.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Josquin-El_grillo_ann1_midi_3_98.0_100.0.mid
+3,104.0,105.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_104.0_105.0.mid
+3,106.0,108.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_3_106.0_108.0.mid
+3,110.0,114.0,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_3_110.0_114.0.mid
+3,118.0,119.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_118.0_119.0.mid
+3,120.0,122.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_3_120.0_122.0.mid
+3,124.0,126.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Josquin-El_grillo_ann1_midi_3_124.0_126.0.mid
+3,130.0,131.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_130.0_131.0.mid
+3,132.0,138.0,"{'RT', 'PA'}",fixed,False,"{'RT', 'PA'}",Josquin-El_grillo_ann1_midi_3_132.0_138.0.mid
+3,148.0,149.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_148.0_149.0.mid
+3,156.0,157.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_156.0_157.0.mid
+3,164.0,165.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_164.0_165.0.mid
+3,187.0,189.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_3_187.0_189.5.mid
+3,190.0,191.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_190.0_191.0.mid
+3,192.0,195.0,"{'RA', 'F'}",,False,"{'RA', 'F'}",Josquin-El_grillo_ann1_midi_3_192.0_195.0.mid
+3,196.0,199.0,set(),,False,"{'SP-PT', 'SR'}",Josquin-El_grillo_ann1_midi_3_196.0_199.0.mid
+3,218.0,219.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_218.0_219.0.mid
+3,222.0,223.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_222.0_223.0.mid
+3,226.0,227.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_226.0_227.0.mid
+3,230.0,231.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_230.0_231.0.mid
+3,232.0,233.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_3_232.0_233.5.mid
+3,234.0,235.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_3_234.0_235.5.mid
+3,236.0,237.5,{'RT'},,False,"{'SP-PT', 'RT'}",Josquin-El_grillo_ann1_midi_3_236.0_237.5.mid
+3,238.0,239.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_238.0_239.0.mid
+3,251.0,253.5,{'RA'},,False,"{'SP-PT', 'RA'}",Josquin-El_grillo_ann1_midi_3_251.0_253.5.mid
+3,254.0,255.0,{'F'},,False,{'F'},Josquin-El_grillo_ann1_midi_3_254.0_255.0.mid
+3,256.0,258.0,"{'RT', 'F'}",,False,"{'RT', 'F'}",Josquin-El_grillo_ann1_midi_3_256.0_258.0.mid
