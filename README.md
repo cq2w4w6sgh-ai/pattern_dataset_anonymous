@@ -11,7 +11,7 @@ This release is intended solely to support anonymous peer review. The repository
 ---
 
 ## Data Sources
-- All source scores are obtained from **public-domain MuseScore files**.
+- All source scores are obtained from **public-domain MuseScore files** and **Humdrum data**.
 - Minor alterations were made to some source scores to ensure consistent formatting and correct parsing.
 - For each piece, we provide:
   - The original MuseScore (`.mscz`) file
