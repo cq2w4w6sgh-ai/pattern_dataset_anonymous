@@ -110,7 +110,7 @@ data/
 │       └── score.mxl         # Exported MusicXML
 ├── annotations/
 │   └── <piece_id>/
-│       └── <ann_id>/
+│       └── <pattern_id>/       
 │           ├── metadata.csv  # Annotation locations and labels
 │           └── midis/        # MIDI excerpts of annotated patterns
 docs/
