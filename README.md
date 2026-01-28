@@ -1,9 +1,9 @@
 # Annotated Monophonic Pattern Dataset (Anonymous Release)
 
 ## Overview
-This repository contains an anonymized dataset of annotated monophonic recurring musical patterns, released for peer review purposes.
+This repository contains an anonymized dataset of annotated monophonic recurring musical motifs (or patterns), released for peer review purposes.
 
-The dataset consists of **40 musical pieces** drawn from **public-domain scores**. Each piece contains a varying number of annotated pattern occurrences. The annotations capture recurring melodic patterns and their transformations, with fine-grained labels designed to support music analysis and computational modeling.
+The dataset consists of **40 musical pieces** drawn from **public-domain scores**. Each piece contains a varying number of motifs, totalling 3,659 annotated occurrences from 131 distinct designated reference patterns. The annotations capture recurring melodic patterns and their transformations, with fine-grained labels designed to support music analysis and computational modeling.
 
 This release is intended solely to support anonymous peer review. The repository will be expanded and fully documented upon acceptance.
 
