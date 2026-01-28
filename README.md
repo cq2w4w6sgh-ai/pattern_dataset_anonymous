@@ -5,8 +5,7 @@ This repository contains an anonymized dataset of annotated monophonic recurring
 
 The dataset consists of **40 musical pieces** drawn from **public-domain scores**. Each piece contains a varying number of motifs, totalling 3,659 annotated occurrences from 131 distinct designated reference patterns. The annotations capture recurring melodic patterns and their transformations, with fine-grained labels designed to support music analysis and computational modeling.
 
-This release is intended solely to support anonymous peer review. The repository will be expanded and fully documented upon acceptance.
-
+**This release is intended solely to support anonymous peer review. We kindly ask that it not be used for other purposes.**
 
 ---
 
